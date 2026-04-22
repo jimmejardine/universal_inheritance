@@ -13,7 +13,7 @@ Chronological skeleton. Every entry becomes a dedicated file, with primary-sourc
 
 - **US Federal Estate Tax (1916– ).** Top marginal rate reached ~77% in 1941 and held roughly there until 1976. Exemption has risen steeply since; today estate tax affects well under 0.1% of deaths.
 - **UK Estate Duty (1894–1975).** Top rate reached ~80% in the late 1960s. Replaced by Capital Transfer Tax (1975), then Inheritance Tax (1986). Today effective rate on estates is far below the headline 40% due to reliefs; fewer than ~5% of estates pay any IHT.
-- **Abolitions (c. 1970–2015).** Canada (1972), Australia (1979), Russia (2005), Sweden (2004), Austria (2008), Norway (2014). Reasons were mixed: avoidance, low revenue, international tax competition, political pressure.
+- **Abolitions (c. 1970–2015).** Canada (1972), Australia (1979), Russia (2005), Sweden (2004), Austria (2008), Norway (2014). Reasons were mixed: avoidance, low revenue, international tax competition, political pressure. See [abolitions.md](abolitions.md) for detailed country cases, the common failure pattern, and how future design can rescue the principle.
 
 ## Twenty-first-century revival
 
