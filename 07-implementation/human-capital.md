@@ -18,6 +18,21 @@ Daniel Markovits's *The Meritocracy Trap* documents the modern mechanism: wealth
 
 The common failure across all five: educational spending is **consumption from the parent's standpoint and opportunity from the child's** — it does not hand the child an alienable asset. A receipts tax is a tax on alienable value received. The boundary drawn in [boundary-problem.md](boundary-problem.md) §2 therefore exempts education and maintenance to age 25 deliberately, not as an oversight.
 
+## The channel comparison
+
+The case for leaving human capital untaxed while taxing financial transfers at 100% is not inconsistency; the channels differ on every dimension that matters for tax design:
+
+| Dimension | Financial inheritance | Human-capital investment |
+|---|---|---|
+| Alienable asset received? | Yes — cash, shares, land | No — dispositions, credentials |
+| Value contingent on heir's effort? | No — pays out regardless | Yes — must be performed into income |
+| Compounds without labour? | Yes (r > g dynamic) | No — must be rebuilt each generation |
+| Already taxed elsewhere? | No (thinly, pre-proposal) | Yes — returns arrive as salary, taxed annually |
+| Valuation feasible at transfer? | Yes | No — return is decades-deferred and contingent |
+| Taxing it politically survivable? | Yes, above a generous threshold | No — reads as taxing parenting |
+
+A receipts tax that respects this table is coherent: it taxes what is received, alienable, and unconditional, and leaves the conditional channel to the income tax that already meets it downstream.
+
 ## Why the financial tax still does the decisive work
 
 The honest concession is narrower than it first appears, for three reasons.

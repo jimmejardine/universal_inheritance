@@ -64,6 +64,34 @@ Rules of application:
 - **Direction of travel noted qualitatively.** A country cutting its inheritance tax scores the same on infrastructure (the machinery exists) but the country file must flag momentum.
 - **Ordinal, not cardinal.** Scores are structured analyst judgement for comparison across this section, not measurements. Every load-bearing factual claim behind a score is flagged (to verify) in the country file.
 
+## Worked example: how a scorecard reads
+
+A compressed illustration using the UK (full version in [uk.md](uk.md)):
+
+| Criterion | Score | One-line basis |
+|---|---|---|
+| C1 Administration | 5 | HMRC already runs IHT, the 7-year gift rule, and mass pre-computed taxation |
+| C2 Trust / morale | 3 | Middling trust; strong compliance norms |
+| C3 Infrastructure | 5 | Live tax since 1894 in unbroken lineage |
+| C4 Institutions | 5 | One Finance Bill suffices |
+| C5 Egalitarian norms | 3 | Fairness intuitions vs property aspiration |
+| C6 Housing salience | 5 | Defining grievance of the under-40 cohort |
+| C7 Transfer exposure | 4 | Trillions in housing/pension wealth moving (to verify) |
+| C8 Crisis windows | 4 | Chronic fiscal gap keeps radical revenue options live |
+| C9 Constitution | 5 | Parliamentary sovereignty; no codified bar |
+| C10 Assignment | 5 | Reserved, UK-wide tax |
+| **Total** | **44/50** | Neither gate triggered → ranked by total |
+
+Contrast Germany: a plausible total in the high 20s, but C9 ≈ 1 (Art. 14 GG) triggers the gate, so Germany is classified "unlikely without constitutional change" *regardless* of its other scores. The gate rule exists precisely so that respectable middling totals cannot smuggle a blocked country up the ranking.
+
+## Interactions between criteria
+
+The criteria are not independent, and three interactions matter for reading the country files:
+
+- **C3 × C4.** Infrastructure plus majoritarianism is the fast path (UK); infrastructure without majoritarianism produces slow convergence instead (Japan, Netherlands); majoritarianism without infrastructure means the harder politics of introduction (New Zealand).
+- **C6 × C7.** Housing salience and transfer exposure are the same wealth viewed from opposite generations. Where both are high, the electorate polarises by expected inheritance — the pivotal bloc is voters who expect to inherit *below* the threshold, who gain from the endowment and lose nothing ([`../12-political-adoption/electoral-arithmetic.md`](../12-political-adoption/electoral-arithmetic.md)).
+- **C2 × C8.** Trust determines what a crisis window can be *spent on*: high-trust states convert shocks into institutions; low-trust states convert them into grievance. France's combination of fiscal strain and tax-revolt tradition illustrates the failure branch ([continental-europe.md](continental-europe.md)).
+
 ## The paradox to hold in mind
 
 The societies that best fit the *values* criteria — Sweden, Norway, Austria, Canada, Australia, New Zealand — are precisely the ones that abolished or never rebuilt their transfer taxes, while the highest surviving rates sit in Korea, Japan, and France, none of them egalitarian by Nordic standards. The abolition record ([`../05-history/abolitions.md`](../05-history/abolitions.md)) shows why: badly designed taxes died of design failure wherever they stood, and small open economies felt the exit threat most acutely ([`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)). The practical inference for this whole section: **weight C1, C3, C4, C9, and C10 above C2 and C5.** Institutions and infrastructure predict adoption; values predict, at most, durability once adopted.

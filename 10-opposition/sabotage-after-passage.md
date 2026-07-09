@@ -19,6 +19,31 @@
 - **Asymmetric attention.** The tax's beneficiaries under a general-revenue model are diffuse and unorganised — the precise failure that let the US repeal coalition operate unopposed for a decade ([attack-playbook.md](attack-playbook.md)).
 - **Fiscal drag as a weapon against the tax.** Counterintuitively, opponents can *let* a frozen threshold bite the middle class: every ordinary family dragged in becomes a repeal voter. Sweden's abolition followed exactly this resentment dynamic among ordinary homeowners while the wealthy avoided the tax — [../05-history/abolitions.md](../05-history/abolitions.md). A hated-but-avoidable tax is the opponents' optimal end-state.
 
+## The first decade: expected erosion attempts
+
+A plausible sequence, extrapolated from the UK BPR/APR and US exemption histories:
+
+| Years after passage | Expected attempt | Cover story |
+|---|---|---|
+| 0–2 | "Technical corrections" bill softening valuation and trust look-through rules | Fixing implementation friction |
+| 2–4 | New relief for a sympathetic asset class (heritage property, growth-company shares) | Protecting jobs/heritage |
+| 4–6 | Threshold uprating "pause" during a fiscal squeeze | Everyone must contribute |
+| 6–8 | Administration budget consolidated into the general tax authority | Efficiency savings |
+| 8–10 | Review commission stacked with practitioner appointees recommends a "simpler, lower, broader" replacement | Modernisation |
+
+None of these is labelled repeal; each would be reported, if at all, on the business pages. The defence architecture below is designed so that each attempt trips a visible wire.
+
+## Warning indicators
+
+The standing watchdog (Mitigation 6) should publish these annually:
+
+- Ratio of threshold to median house price and to median lifetime earnings (drift = erosion or overreach).
+- Effective tax rate on the top decile of receipts vs the statutory rate (gap = carve-out and avoidance leakage).
+- Relief uptake vs original forecast, by relief.
+- Administration budget as a share of assessed receipts; audit coverage of receipts above £5m.
+- Endowment value in real terms and as a share of median first-home deposit.
+- Count and disposition of settlement concessions in litigation ([legal-challenges.md](legal-challenges.md)).
+
 ## The strategic insight: the endowment is the tax's bodyguard
 
 Every hollowing strategy works by keeping losses invisible. Hypothecation inverts this. If the tax's proceeds fund a *named universal entitlement* — every citizen's £50,000 at 25 — then every act of erosion has an automatic, countable victim class: this year's 24-year-olds. A carve-out for family holding companies becomes "a £2bn cut to young people's endowments" (illustrative figure); enforcement defunding becomes "letting avoidance eat your grant." The US Social Security precedent is instructive: programmes with named universal beneficiaries acquire "third rail" status that general-revenue taxes never achieve, which is why opponents of such programmes must attack them obliquely. The design logic is developed in [../02-proposal/endowment.md](../02-proposal/endowment.md) and [../16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md); the abolition-pattern evidence is in [../05-history/abolitions.md](../05-history/abolitions.md).

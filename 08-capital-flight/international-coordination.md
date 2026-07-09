@@ -54,6 +54,14 @@ Coordination is an amplifier, not a precondition. The first mover, alone, can:
 5. **Condition market access** — the City of London/Wall Street lesson of FATCA: financial-centre gravity converts domestic reporting rules into global ones.
 6. **Publish the accession treaty** — a ready-to-sign floor convention lowers the next adopter's cost and signals the cascade intent.
 
+## Sequencing with the domestic reform
+
+Coordination workstreams should start *before* domestic enactment, in this order:
+
+1. **At announcement:** publish the draft floor convention alongside the domestic bill — signalling that the regime is designed for company, not isolation, blunts the "lone lunatic" attack line ([`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md)).
+2. **At enactment:** activate CRS-transfer-annex negotiations at the OECD and table the enhanced-cooperation proposal in the EU (for an EU adopter) or the treaty saving-clause programme (UK/US).
+3. **Within the first parliament:** land at least one bilateral mutual-recognition agreement with a peer considering adoption — the first accession is the proof the cascade argument needs ([`../15-transition/sequencing.md`](../15-transition/sequencing.md)).
+
 ## Honest limits
 
 Coordination has never been total and will not be here: some havens will hold out (their capacity limits are the mitigation — [exit-options.md](exit-options.md)); the US federal politics of joining any floor are volatile, as Pillar Two's US career shows; enforcement against determined concealment of portable assets remains an [`../07-implementation/enforcement.md`](../07-implementation/enforcement.md) problem. The claim defended here is narrower and sufficient: the trajectory of the last fifteen years runs entirely toward transparency and floors, the mechanical templates exist, and a design that *works unilaterally and improves multilaterally* is on the right side of that trajectory — the abolished regimes of [`../05-history/abolitions.md`](../05-history/abolitions.md) had neither property.

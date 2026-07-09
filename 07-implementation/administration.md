@@ -53,6 +53,21 @@ The Register concentrates sensitive family financial data and must be designed f
 
 Standard two-track design, reusing existing machinery: internal statutory review, then the First-tier Tribunal (Tax Chamber) and onward appeals (UK) / IRS Independent Office of Appeals and Tax Court (US) [7]. Specifics: valuation disputes go to a specialist valuation track with the blind-second-appraisal file ([valuation.md](valuation.md) §6) as the evidential baseline; the binding pre-clearance ruling ([valuation.md](valuation.md) §7) removes the biggest dispute class ex ante; hardship deferral of *payment* (not liability) pending appeal prevents forced sales during disputes, answering the due-process attack anticipated in [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md).
 
+## 9. A typical estate's journey
+
+The median case should be near-invisible; the flow for an ordinary £600k estate split between two children:
+
+| Step | Actor | Action | Elapsed |
+|---|---|---|---|
+| Death registered | Registrar | Auto-notification to Register | Day 0 |
+| Estate Information Return | Executor | Online inventory + beneficiary schedule; mostly pre-populated from bank/registry feeds | ~3 months |
+| Probate granted | Court | Gate passes on lodgment | ~4 months |
+| Provisional ledger entries | Register | £300k posts provisionally to each child | Automatic |
+| Receipts Returns | Each child | One-screen confirmation; both well within headroom | By 6 months |
+| Clearance | HMRC | Executor certificate issues; case closes with zero tax | ~7 months |
+
+Neither child pays anything, meets a valuer, or files more than a confirmation screen. The contrast with the current IHT400 experience — routinely described as the worst administrative encounter bereaved families have with the state [6] — is itself a selling point: for the 90%+ of families below threshold, this regime is *less* paperwork than the tax it replaces.
+
 ## Research gaps
 
 - Actual current HMRC IHT and IRS estate-tax cost-to-yield and headcount figures (to verify §5 table).

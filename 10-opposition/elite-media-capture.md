@@ -24,6 +24,22 @@ A useful precedent for owner-as-campaigner already exists in the historical reco
 - **Platforming the fronts.** Op-ed slots for the coalition groups mapped in [astroturf-and-lobbying.md](astroturf-and-lobbying.md), lending mastheads' credibility to funded campaigns.
 - **Interviewer priors.** Even at impartial broadcasters, news agendas follow the press; the morning-bulletin question will be the Mail's front page. Agenda-setting flows downstream of ownership even where regulation constrains overt bias [1].
 
+## Sizing the problem — and its limits
+
+Concentration data ([../01-problem/political-capture.md](../01-problem/political-capture.md)) show a handful of proprietors reaching a majority of the UK news-consuming public [1][2]. But three countervailing facts shape strategy:
+
+- **Print's persuasive reach is declining and ageing.** The audiences most exposed to proprietor-controlled front pages skew old; the endowment's beneficiary generation gets news predominantly from social and video platforms (Reuters Institute data — to verify current shares) [1]. Hostile press dominance is a diminishing asset.
+- **Broadcast still sets the shared agenda — and is regulated.** Ofcom due impartiality means the UK's most-consumed news (TV bulletins) cannot campaign; the fight there is over question framing and guest selection, which preparation can win.
+- **Endorsement effects are real but bounded.** The evidence on media persuasion (e.g. Fox News effects literature) supports meaningful but not deterministic influence; policies with strong material constituencies have survived press hostility before — the strategic bet made explicit in [../12-political-adoption/electoral-arithmetic.md](../12-political-adoption/electoral-arithmetic.md).
+
+| Outlet type | Expected posture | Campaign posture |
+|---|---|---|
+| Dynastic print (Mail, Telegraph, Sun, Times) | Campaigning opposition | Assume hostile; answer via broadcast balance and direct channels; declare the conflict |
+| Regulated broadcast (BBC, ITV, Sky News UK) | Formally neutral; agenda follows print | Feed broadcast-ready validators and pictures; contest framing, not fairness |
+| Trust/non-profit/reader-funded (Guardian, FT to a degree, new non-profits) | Mixed to sympathetic | Brief deeply; place the long-form explainers |
+| US networks/cable | Polarised split | Fox-adjacent hostility priced in; contest local TV and digital |
+| Platforms/creators | No editorial line; attention-driven | The primary battlefield — [../14-communications/channels.md](../14-communications/channels.md) |
+
 ## The succession sagas: opposition research the opponents wrote themselves
 
 Two recent, exhaustively documented cases make the abstract argument — that dynastic succession concentrates unaccountable power in unchosen heirs — concrete and vivid:

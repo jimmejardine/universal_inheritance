@@ -49,6 +49,17 @@ Why the tax is still worth having: both untaxable channels are **self-limiting**
 - [enforcement.md](enforcement.md) — audits, penalties, whistleblowers, limitation periods, criminal track
 - [hard-cases.md](hard-cases.md) — the farm, the family home, the disabled dependant, the unpaid heir, and the rest
 
+## How this section relates to the others
+
+| Section | Relationship |
+|---|---|
+| [`../02-proposal/`](../02-proposal/) | Defines the design this section operationalises; nothing here re-opens a design commitment |
+| [`../08-capital-flight/`](../08-capital-flight/) | Owns emigration, exit taxes, and international coordination entirely; this section stops at the border |
+| [`../09-objections/`](../09-objections/) | The practicality and avoidance objections are answered by pointing here; [`../09-objections/practicality.md`](../09-objections/practicality.md) is the debating version of this section's engineering |
+| [`../10-opposition/`](../10-opposition/) | Anticipates attacks on the machinery (privacy, IRS-defunding sabotage, legal challenge); the countermeasures are wired in here ([administration.md](administration.md) §4, §7) |
+| [`../15-transition/`](../15-transition/) | Owns commencement: the pre-announcement gift rush, grandfathering, and phase-in ([gifts-and-timing.md](gifts-and-timing.md) §3 hands off to it) |
+| [`../16-second-order/`](../16-second-order/) | Behavioural consequences once the machinery works — charitable giving, savings, asset prices |
+
 ## Reading order
 
 For the sceptic asking "can this possibly work?": [administration.md](administration.md) → [valuation.md](valuation.md) → [enforcement.md](enforcement.md). For the philosopher asking "where does the line go?": [boundary-problem.md](boundary-problem.md) → [human-capital.md](human-capital.md) → [nepotism-and-networks.md](nepotism-and-networks.md). For the campaigner preparing for attack anecdotes: [hard-cases.md](hard-cases.md) first, then [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md).

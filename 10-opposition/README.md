@@ -35,6 +35,20 @@ Five mitigations recur across every file and constitute the section's core doctr
 4. **Transparency as flanking attack.** Funding disclosure, lobbying registers, ownership declarations — opponents must oppose openness in public to fight the tax in private.
 5. **Institutions over individuals.** Statutory indexation, independent administration, and organisational (not personal) campaign fronting reduce every single point of failure.
 
+## How this section relates to the rest of the tree
+
+| Section | Relationship |
+|---|---|
+| [../01-problem/political-capture.md](../01-problem/political-capture.md) | The theory this section applies: the opposition's resources *are* the captured power the tax targets |
+| [../02-proposal/](../02-proposal/) | The design layer where most mitigations live (carve-outs, thresholds, endowment, avoidance) |
+| [../09-objections/](../09-objections/) | Argument-level rebuttals; this section covers delivery systems, not content |
+| [../14-communications/](../14-communications/) | The counter-messaging machinery (naming, inoculation, channels, debate toolkit) |
+| [../13-movement/](../13-movement/) | The people and organisations that execute the counter-strategy |
+| [../15-transition/](../15-transition/) | Sequencing and legislative-path decisions that close attack windows |
+| [../05-history/abolitions.md](../05-history/abolitions.md) | The post-mortems of taxes that lost these fights |
+
+Suggested reading order: [attack-playbook.md](attack-playbook.md) first (the template everything else varies), then [media-narratives.md](media-narratives.md) and [astroturf-and-lobbying.md](astroturf-and-lobbying.md) (the delivery systems), then [elite-media-capture.md](elite-media-capture.md), [legal-challenges.md](legal-challenges.md), and [personal-attacks.md](personal-attacks.md) (specialised fronts), ending with [sabotage-after-passage.md](sabotage-after-passage.md) (the war after the war).
+
 ## Files in this section
 
 | File | Contents |

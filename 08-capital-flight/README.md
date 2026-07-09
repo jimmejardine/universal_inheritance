@@ -26,9 +26,42 @@
 | [international-coordination.md](international-coordination.md) | Can flight be closed off multilaterally? | CRS/FATCA/Pillar Two prove floors are achievable; a minimum-inheritance-tax treaty is the target; unilateral tools exist meanwhile |
 | [game-theory.md](game-theory.md) | Who moves first, and does it pay? | First-mover risk is manageable; a UK+EU+US coalition covers most inheritable wealth; haven capacity is a natural brake |
 
+## Key claims and their strongest counters
+
+Honesty discipline for the whole section: each headline claim is stated alongside the best evidence against it and where that evidence is engaged.
+
+| Claim | Strongest counter | Engaged in |
+|---|---|---|
+| Average migration elasticity of the wealthy is low | Moretti & Wilson find real billionaire responsiveness to US state estate taxes | [evidence.md](evidence.md) §3 — engaged directly; note the intra-federal setting and the study's own revenue-positive conclusion |
+| Havens are few and capacity-constrained | UAE and Singapore have real absorptive capacity and are growing | [exit-options.md](exit-options.md) — conceded for the family-office nomad tail; both are repricing against inflows |
+| Anchors bind the settled wealthy | The young founder can build abroad from day one | [friction-and-anchors.md](friction-and-anchors.md), [game-theory.md](game-theory.md) — the formation-location margin is the genuine long-run exposure |
+| Exit taxes and tails close the emigration route | EU free-movement law constrains exit charges | [exit-tax-design.md](exit-tax-design.md) — CJEU case law prescribes the compliant form (assess at exit, collect at realisation) |
+| Multilateral floors are achievable (Pillar Two precedent) | Pillar Two's own implementation has wobbled under US pressure | [international-coordination.md](international-coordination.md), [game-theory.md](game-theory.md) — conceded; unilateral viability is therefore a design requirement, not an option |
+
+## Terminology used across this section
+
+| Term | Meaning |
+|---|---|
+| Migration elasticity | Percentage change in the resident stock of a taxed population per unit change in the net-of-tax rate |
+| Situs | The legal location of an asset (land where it lies; registered shares at the register), determining which jurisdiction can tax it regardless of owner residence |
+| Dual nexus | The proposal's rule that tax applies if *either* the recipient is resident *or* the asset is domestically sitused ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md)) |
+| Exit charge / deemed receipt | Tax assessed on unrealised accrual when an individual ceases residence |
+| Trailing tail | Continued tax liability for a fixed period (here 10 years) after ceasing residence |
+| Forfait | Swiss expenditure-based lump-sum taxation of resident foreigners |
+| CRS / FATCA / CARF | The automatic financial-information-exchange stack ([international-coordination.md](international-coordination.md)) |
+| UTPR-style backstop | A rule letting adopting states top-up tax bases that non-adopting states undertax, removing the benefit of staying outside a floor |
+
 ## The design stance
 
 This section treats capital flight the way an engineer treats friction: a real force, quantifiable, never zero, and designed around rather than wished away. The failure mode to avoid is the Norwegian 2022–23 pattern — announcing a headline rate rise *before* the exit-tax and trailing-liability architecture is in place, thereby publishing an exit window (see [evidence.md](evidence.md) and [`../15-transition/announcement-effects.md`](../15-transition/announcement-effects.md)). Sequencing the anti-flight architecture ahead of the rate is a first-order transition requirement, developed in [`../15-transition/sequencing.md`](../15-transition/sequencing.md).
+
+## Reading order
+
+For the reader who wants the argument in sequence: [evidence.md](evidence.md) establishes what is actually known; [exit-options.md](exit-options.md) and [friction-and-anchors.md](friction-and-anchors.md) explain why the known elasticities are low (demand for exit is weaker, and supply of exit smaller, than assumed); [exit-tax-design.md](exit-tax-design.md) and [retention-attraction.md](retention-attraction.md) give the policy response for the residual (the stick and the carrot respectively); [international-coordination.md](international-coordination.md) and [game-theory.md](game-theory.md) lift the analysis from one jurisdiction to the system. For debate preparation, the claims-and-counters table above plus [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md) are the fast path.
+
+## What would falsify the synthesis
+
+This section's conclusion is contingent, not axiomatic. It would need revision if: registry-based data confirmed the upper-bound media counts of the Norwegian 2022–23 outflow *and* showed the pattern generalising to anchored (non-family-office) wealth; the post-2025 UK non-dom data showed departure rates at the top of the lobby predictions rather than the Advani-range estimates; a scale destination emerged ([exit-options.md](exit-options.md) §"What would change this assessment"); or Pillar Two collapsed outright, discrediting the floor template. Each is a monitorable empirical claim, and [evidence.md](evidence.md)'s research gaps assign the monitoring.
 
 ## Files in this section
 

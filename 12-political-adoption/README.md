@@ -43,6 +43,30 @@ And raises the payoff by:
 - [../15-transition/](../15-transition/README.md) covers what a government does *after* adoption; [stepping-stones.md](stepping-stones.md) here covers the pre-adoption ratchet.
 - [../10-opposition/](../10-opposition/README.md) covers the counter-mobilisation each route must survive.
 
+## Reading order
+
+The section is designed to be read two ways:
+
+- **For the theory:** [party-incentives.md](party-incentives.md) → [electoral-arithmetic.md](electoral-arithmetic.md) → [wedge-dynamics.md](wedge-dynamics.md) — the general machinery of self-interested adoption.
+- **For a specific party:** go straight to [left-parties.md](left-parties.md), [right-parties.md](right-parties.md), or [centrists-and-liberals.md](centrists-and-liberals.md), then [stepping-stones.md](stepping-stones.md) for what that party can adopt this cycle, then [policy-entrepreneurs.md](policy-entrepreneurs.md) for how to get it onto their desk.
+
+## What this section deliberately excludes
+
+| Excluded topic | Where it lives instead |
+|---|---|
+| Voter-facing message testing and framing | [../06-palatability/framing.md](../06-palatability/framing.md), [../14-communications/README.md](../14-communications/README.md) |
+| Who organises the outside pressure | [../13-movement/README.md](../13-movement/README.md) |
+| Country-by-country adoption likelihood | [../11-geographies/adoption-criteria.md](../11-geographies/adoption-criteria.md) |
+| What happens after a government adopts | [../15-transition/README.md](../15-transition/README.md) |
+| How opponents counter-attack each route | [../10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md) |
+
+## Research gaps for this section
+
+- Systematic evidence on **policy theft**: how often, and under what conditions, incumbent parties adopt challenger or opposition policies (issue-ownership and accommodation literatures — to verify key references).
+- **UK constituency-level modelling** of endowment beneficiaries versus threshold-exposed inheritors, to convert [electoral-arithmetic.md](electoral-arithmetic.md) from direction to numbers.
+- **Interview evidence from former special advisers** on what actually moved tax policy onto frontbench agendas (supports [policy-entrepreneurs.md](policy-entrepreneurs.md)).
+- Comparative record of **citizens' assemblies on tax** questions specifically, as distinct from social questions (Ireland precedent is social; the transfer is asserted, not demonstrated).
+
 ## Files in this section
 
 - [party-incentives.md](party-incentives.md) — the theory: why vote-, office-, and policy-seeking parties adopt outsider ideas, and the adoption ladder

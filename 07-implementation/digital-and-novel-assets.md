@@ -49,6 +49,18 @@ The deceased's unvested RSUs, options, and fund carry are contingent claims. Tax
 
 None of these assets requires a new tax base — a receipt is a receipt whether it arrives as land or as a key ceremony. What changes is the evidence layer, and the regime's posture is to reuse the international plumbing being built anyway (CARF, CRS, AML ramps) rather than invent bespoke surveillance. The residual leak — genuinely undetected self-custody transfers, never touching a regulated ramp, spent covertly forever — is real but shares the structure of the cash leak in [gifts-and-timing.md](gifts-and-timing.md) §4: it forces wealth to stay outside the institutions that make wealth *useful*, which is a heavy standing cost and no basis for a dynasty. Jurisdictional escape via crypto-friendly havens is a capital-flight question: [`../08-capital-flight/exit-options.md`](../08-capital-flight/exit-options.md).
 
+## Worked example: the suspended receipt
+
+Marta dies holding, per exchange records surfaced by CARF reporting, 150 BTC withdrawn to self-custody in 2019. Her executors certify after reasonable enquiry (device forensics, no recovered phrase) that the keys are lost.
+
+| Step | Register action | Tax now |
+|---|---|---|
+| Death | 150 BTC entered as suspended receipt at death-date value, attributed pro-rata to the three residuary beneficiaries | £0 |
+| Year 4: 20 BTC move on-chain | Movement crystallises the suspended entry for the moved coins at the higher of death-date or movement-date value; fraud investigation opens into the loss certification | Tax at 100% above each beneficiary's headroom, plus deliberate-concealment penalties if the certification is shown false |
+| Coins never move | Entry remains suspended indefinitely; beneficiaries owe nothing and can prove clean provenance for the rest of the estate | £0, permanently |
+
+The equilibrium is the point: an honest family with genuinely lost keys is never taxed on inaccessible wealth, while a dishonest one holds a permanently frozen asset under automated watch — usable neither onshore nor at any regulated ramp — which is not an inheritance in any meaningful sense.
+
 ## Research gaps
 
 - CARF implementation timelines and coverage gaps by jurisdiction (to verify current state; DeFi and unhosted-wallet reporting remain contested).

@@ -67,6 +67,21 @@ From the strategist's chair, an idea's merits matter less than its handling prop
 - **Activist-only adoption.** Conference-floor victories that the leadership resents get buried in manifestos and blamed for defeats. Rung 3 without a rung-4 sponsor is a trap.
 - **Adoption without inoculation.** A party that adopts before the attack-response toolkit exists will be burned, and a burned party salts the ground for a decade ([../10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
 
+## Reading the internal balance of a target party
+
+Before approaching any party, the movement should diagnose which goal currently dominates it, because the pitch differs:
+
+| Party state | Dominant goal | The pitch that lands | The pitch that fails |
+|---|---|---|---|
+| Freshly defeated, in review | Policy/brand (rebuilding identity) | "Signature idea that redefines you" — rung 2 entry via the review | Cautious stepping-stones (too small for the moment) |
+| Opposition, ahead in polls | Vote-protection (risk-minimising) | Deniable stepping-stones only; full scheme reads as gratuitous risk | Maximalist adoption asks |
+| In government, mid-term | Office (delivery, fiscal room) | The revenue answer; a deliverable before the next election | Abstract fairness arguments |
+| In government, fiscal crisis | Office (survival) | Large, fast revenue with a popular wrapper — the widest window ([../11-geographies/crisis-windows.md](../11-geographies/crisis-windows.md)) | Slow pilots |
+| Junior coalition partner | Office + brand (attributable wins) | The endowment as coalition price ([centrists-and-liberals.md](centrists-and-liberals.md)) | Whole-scheme purism |
+| Leadership contest underway | Policy (candidates need distinguishing ideas) | Brief multiple candidates separately; ideas adopted in contests bind winners | Waiting until the contest resolves |
+
+The same policy, correctly sliced, fits every row — which is the practical meaning of the claim that adoption routes exist for every party in every state. What varies is the slice and the vocabulary, never the architecture.
+
 ## Bottom line
 
 Parties are not audiences to be convinced; they are machines with known inputs. The movement's leverage is over four inputs: the visibility of the beneficiary map, the cost of policy development, the deniability of the first steps, and the pre-tested survivability of the language. All four are cheap for outsiders to supply and expensive for parties to build themselves — which is precisely why supplying them buys influence.

@@ -26,6 +26,18 @@ In the standard tax-competition model, jurisdictions set rates non-cooperatively
 
 The game has not been solved, but its payoff matrix has been visibly re-priced: defection (by individuals and by jurisdictions) is more observable, more punishable, and more politically costly than at any point in the abolition era.
 
+## The payoff matrix, before and after
+
+A stylised two-player rendering (large jurisdiction vs rest-of-world), with payoffs described qualitatively:
+
+| | **Others adopt floor** | **Others hold out** |
+|---|---|---|
+| **Adopt (pre-2008 technology)** | Stable high-tax equilibrium — but unreachable: no assurance mechanism | Base flight, celebrity exiles, unilateral repeal (the Sweden path) |
+| **Adopt (current technology)** | Stable floor; race to bottom ends | Bounded loss: situs base retained, exit charges collected, mobile tail priced; template written |
+| **Hold out** | Free-ride briefly; face UTPR-style defensive top-ups on situs assets | Status quo: continued erosion of transfer taxation |
+
+The strategic shift is in the top-right cell. Under abolition-era conditions, adopting alone was catastrophic, so nobody adopted, so the floor never formed — a coordination failure locked in by fear of the off-diagonal. Transparency infrastructure, dual-nexus design, and exit-charge technology shrink the off-diagonal loss from "catastrophic" to "bounded and partially compensated," which is exactly the change that lets a first mover rationally move and thereby lets the top-left equilibrium become reachable. Pillar Two traversed precisely this path: unilateral precursors (FATCA, diverted-profits taxes, digital-services taxes) made the multilateral floor the *less* painful option for holdouts [4].
+
 ## First-mover analysis
 
 **Risks.** (1) *Announcement-window flight*: the mobile minority exits between announcement and the exit-architecture taking effect — the Norwegian error; mitigated by legislating the tail and exit charge *first*, ideally with effect from announcement day ([`../15-transition/announcement-effects.md`](../15-transition/announcement-effects.md)). (2) *Formation-location drift*: young founders build elsewhere over decades — bounded by the agglomeration goods analysis in [retention-attraction.md](retention-attraction.md), but the genuine long-run exposure. (3) *Narrative capture*: every departure becomes a front page regardless of fiscal materiality — a communications problem ([`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md)), and the abolition record shows it is the *politically* decisive one.
@@ -51,6 +63,8 @@ The equilibrium has shifted; it has not arrived. The US may be the coalition's l
 ## Research gaps
 
 - Quantify the UK+EU+US share of global inheritable private wealth and its situs composition (UBS/Credit Suisse GWR; WID.world).
+- Formalise the congestible-outside-option model: at what haven price elasticity does aggregate flight self-limit below the revenue-materiality threshold?
+- Identify the minimum viable coalition short of the full UK+EU+US triad (e.g. UK + a Franco-German-led enhanced-cooperation bloc) and its base coverage.
 - Model announcement-window flight under different sequencing assumptions (calibrate to the Norwegian and 2025 UK non-dom episodes).
 - Literature review: empirical tests of Kanbur–Keen small-jurisdiction undercutting applied to personal rather than corporate bases.
 - Track Pillar Two's post-2025 durability as the leading indicator for floor-treaty feasibility.

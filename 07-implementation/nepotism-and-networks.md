@@ -48,6 +48,18 @@ Introductions, the lunch that leads to the internship, the surname that gets the
 
 Nepotism is not merely distasteful; it is *load-bearing* because family capital makes it credible — the heir is hired partly because the family owns the client, the building, the stake ([`../01-problem/political-capture.md`](../01-problem/political-capture.md), [`../01-problem/rentier-economy.md`](../01-problem/rentier-economy.md)). A tax that caps inherited financial capital at the threshold does not stop a parent making calls, but over one or two generations it dissolves the *institutional* nepotism of family-controlled blocks of capital: fewer firms where the controlling family can install heirs at will, fewer family offices to employ them, fewer landlord dynasties to absorb them. The favour economy survives; its balance sheet does not. That is the honest, and sufficient, claim — argued at greater length in [`../16-second-order/dynasties-and-power.md`](../16-second-order/dynasties-and-power.md).
 
+## Worked example
+
+Patel Logistics Ltd, family-controlled, turnover £20m. The founder's son joins at 30 as "Strategy Director" on £280,000; the arm's-length band for the role in that sector and firm size benchmarks at £90,000–£130,000.
+
+| Year | Salary paid | Arm's-length ceiling | Recharacterised receipt |
+|---|---|---|---|
+| 1 | £280,000 | £130,000 | £150,000 |
+| 2 | £290,000 | £134,000 | £156,000 |
+| 3 | £300,000 | £138,000 | £162,000 |
+
+Three years of "employment" post £468,000 to the son's lifetime ledger — nearly a full £500k threshold consumed before any bequest arrives. The corporation-tax deduction for the excess is also disallowed under existing wholly-and-exclusively rules [3], so the structure is penalised twice. Had the son genuinely performed a £280k-calibre role — demonstrable through the same evidence an unrelated hire would generate (recruitment process, comparable external offers, output) — the band itself moves and nothing is recharacterised: the test burdens sham employment, not family talent.
+
 ## Research gaps
 
 - Empirical scale of excess family compensation in closely held firms (US reasonable-compensation litigation gives cases, not magnitudes — to verify whether any systematic study exists).

@@ -58,6 +58,10 @@ Monaco's population would fit inside a mid-sized London borough. Switzerland's f
 
 The table's "costs" column is the under-weighted term in the folk model. Moving to escape a death tax means spending one's final decades — precisely the years of grandchildren, familiar healthcare, and accumulated social position — in a jurisdiction chosen for its tax code. Sweden's celebrity exiles were working-age entrepreneurs with global businesses; the marginal 70-year-old UK testator is a different case entirely. The full anchor analysis is in [friction-and-anchors.md](friction-and-anchors.md); the positive retention case is in [retention-attraction.md](retention-attraction.md).
 
+## What would change this assessment
+
+The exit-options analysis is falsifiable, and honest monitoring should watch for: (a) a large, credible, rule-of-law jurisdiction — a hypothetical "Switzerland at scale" — deliberately building capacity for inbound wealth migration rather than rationing it; (b) the UAE or Singapore reversing their current repricing trend and courting UK/US retirees specifically; (c) remote-work normalisation materially cutting the career cost of relocation for heirs (the step-5 constraint in [friction-and-anchors.md](friction-and-anchors.md)); or (d) an EU member successfully defending a new golden-visa regime against Commission pressure. None of these is currently observed; each would warrant revisiting the capacity-constraint argument in [game-theory.md](game-theory.md).
+
 ## Research gaps
 
 - Verify current Monaco residency deposit/property requirements and Swiss forfait headcounts and minimum bases per canton.

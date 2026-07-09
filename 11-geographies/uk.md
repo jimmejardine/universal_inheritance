@@ -50,6 +50,36 @@ The reform of agricultural and business property reliefs announced in the Octobe
 | Majoritarianism cuts both ways: easy to enact, easy to repeal | Medium | Endowment hypothecation as repeal-proofing ([`../05-history/abolitions.md`](../05-history/abolitions.md), [`../15-transition/grandfathering.md`](../15-transition/grandfathering.md)) |
 | Crown Dependencies and Overseas Territories as adjacent havens | Low–Medium | Situs and residence rules; UK leverage over its own territories ([`../08-capital-flight/exit-options.md`](../08-capital-flight/exit-options.md)) |
 
+## The stepping-stone path in detail
+
+The UK sequence that respects both the appetite and the backlash evidence ([`../15-transition/sequencing.md`](../15-transition/sequencing.md)):
+
+1. **Reframe step.** Replace estate-based IHT with a recipient-based lifetime receipts tax at a moderate rate and a threshold high enough that the reform is honestly sold as an IHT *abolition* for the overwhelming majority of families — the Resolution Foundation / IPPR / Mirrlees territory, already inside the Overton window.
+2. **Endowment step.** Introduce the citizen's endowment at modest scale, hypothecated to receipts-tax revenue, reviving the Child Trust Fund lineage with a named account visible from enactment ([`../02-proposal/endowment.md`](../02-proposal/endowment.md)).
+3. **Escalation step.** Ratchet the rate above the lifetime threshold as the endowment cohort matures into a voting constituency; each budget's rate rise funds a visible endowment increase — the political economy now runs *for* the tax rather than against it.
+4. **Coordination step.** Sponsor the OECD/G20 floor from inside the tent, converting the UK from potential victim of tax competition to standard-setter ([`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md)).
+
+Each step is separately survivable at the ballot box; none requires the word "100%" until the constituency exists.
+
+## Key actors
+
+| Actor | Disposition | Note |
+|---|---|---|
+| HM Treasury | Institutionally receptive to base-broadening; allergic to hypothecation | The hypothecation fight is the real internal battle |
+| HMRC | Capable; would need Central Register build ([`../07-implementation/administration.md`](../07-implementation/administration.md)) | Existing gift and trust reporting is the foundation |
+| Labour | Historically cautious post-1992; APR/BPR move shows revealed willingness | Endowment offers a generational-offer narrative it lacks |
+| Conservatives | Committed IHT-cutters; would campaign for repeal | Grandfathering and endowment entrenchment are the defences ([`../15-transition/grandfathering.md`](../15-transition/grandfathering.md)) |
+| Think tanks (Resolution, IPPR, IFS, Demos, Fabians) | Already published adjacent designs (to verify specifics) | The idea's institutional custodians between windows |
+| Press (Mail, Telegraph, Express) | Reliably hostile; "death tax" franchise holders | See [`../10-opposition/media-narratives.md`](../10-opposition/media-narratives.md) |
+| NFU / family-business lobby | Proven mobilisation capacity (2024–25) | The 30-year deferral is addressed to them specifically |
+
+## What to watch
+
+- Whether the APR/BPR reform survives to implementation intact — the single best predictor of Treasury appetite for the next step.
+- Any party manifesto adopting a lifetime-receipts basis or a citizen's-inheritance pledge.
+- IHT receipts growth as fiscal drag pulls more estates over the nil-rate band (to verify OBR projections) — rising receipts normalise the tax while sharpening threshold politics.
+- Non-dom regime outcomes: measured exit numbers versus predicted will calibrate the credibility of the flight narrative either way ([`../08-capital-flight/evidence.md`](../08-capital-flight/evidence.md)).
+
 ## Analytic judgement
 
 The UK is the most probable first mover among large economies, but "most probable" here means a realistic path, not a likely near-term event. The path runs: threshold-raising plus receipts-basis reform sold as *abolishing* the hated estate-based IHT for 90%+ of families → a funded citizen's endowment as the visible benefit → rate escalation toward 100% above the lifetime threshold as the endowment builds its constituency. Each step is separately defensible and has an existing UK proposal near it ([`../12-political-adoption/stepping-stones.md`](../12-political-adoption/stepping-stones.md)). The symmetric risk — that the same majoritarianism repeals it — makes the endowment pairing, not the tax design, the load-bearing element.

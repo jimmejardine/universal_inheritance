@@ -23,6 +23,28 @@ Argument-level content of the envy and communism charges is rebutted in [../09-o
 
 Engelhorn's case rewards study. As an heiress campaigning for inheritance taxation, every standard attack inverted: hypocrisy-hunting fails (she is giving away the inheritance), envy framing fails (she is the envied), communism framing collapses into visible absurdity (the "communist" is a BASF heiress convening a citizens' assembly). Her demand — "tax me properly, don't make me rely on my own goodwill" — converts personal circumstance into the policy argument itself: charity by the conscientious few is no substitute for rules binding all [3]. This is the archetype for the wealthy-defector messenger strategy in [../13-movement/messengers.md](../13-movement/messengers.md).
 
+## Anatomy of a hit piece
+
+Personal attacks arrive in a recognisable sequence; the counter is staged accordingly:
+
+| Stage | Opposition action | Counter |
+|---|---|---|
+| 1. Research | Land registry, probate records, companies filings, old tweets, family history trawled | Disclosure-first: the campaign publishes the material facts before opponents can "reveal" them |
+| 2. Placement | Diary-column item or partisan-site "exclusive" tests the story | Ignore unless materially false; pre-published declaration cited if asked |
+| 3. Escalation | Mainstream pickup: "campaigner for 100% inheritance tax lives in £1.2m house" | The drilled judo response (Mitigation 5); no defensiveness, immediate redirect to funder opacity |
+| 4. Saturation | Broadcast interviewers open with the personal charge | Two sentences maximum on the person, then the policy; refusal to make the campaign about individuals |
+
+The strategic point: stages 1–2 are inevitable and harmless if stage 1 finds nothing undisclosed. The entire attack chain depends on *concealment* to generate the reveal. A movement with a disclosure norm has no reveals to fear.
+
+## Exposure by role
+
+Not everyone needs the same armour:
+
+- **Principal spokespeople** — full public declarations, media training, security support; chosen partly for attack-resistance (defectors, endowment-generation voices).
+- **Researchers and staff** — institutional bylines by default; personal identification minimised.
+- **Volunteers and endorsers** — never asked to carry personal financial disclosure; standing guidance on pile-on response and reporting.
+- **Validator families** (from [media-narratives.md](media-narratives.md)) — informed consent about the scrutiny that follows a broadcast appearance; the campaign owes them the same rapid-response defence it runs for itself.
+
 ## The harassment tier
 
 Prominent tax-justice campaigners, academics, and journalists covering wealth have experienced coordinated online abuse, legal intimidation (including SLAPP-style defamation threats, a documented pattern in UK wealth journalism — to verify specific cases), and occasional physical-security concerns. Assume a mainstream campaign for this proposal will face the same, concentrated on its most visible women and minority spokespeople, consistent with the general pattern of online harassment research (to verify against current literature) [4].
