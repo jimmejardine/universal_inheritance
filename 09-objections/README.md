@@ -58,6 +58,9 @@
 | 31 | "The rich will just spend it all before they die" | Substantially the point: consumed wealth returns to circulation and employs people, and a fortune consumed is a dynasty that never forms | [spend-it-all.md](spend-it-all.md#the-rich-will-just-spend-it-all-before-they-die) |
 | 32 | "They'll give it all to charity and you'll collect nothing" | Genuine philanthropy is the Carnegie outcome the policy wants; fake foundations are pierced by anti-cycling rules | [spend-it-all.md](spend-it-all.md#theyll-give-it-all-to-charity-and-youll-collect-nothing) |
 | 33 | "They'll die broke and the tax raises nothing" | "Die broke" is the structural objective achieved at zero enforcement cost — and empirically, the very wealthy do not die broke even under today's 40% rate | [spend-it-all.md](spend-it-all.md#theyll-die-broke-and-the-tax-raises-nothing) |
+| 34 | "Family wealth is squandered within three generations anyway" | That's a proverb, not a dataset: surname studies find elite wealth persisting ten-plus generations, and the inherited share of top wealth is rising, not decaying | [self-correcting.md](self-correcting.md#family-wealth-is-squandered-within-three-generations-anyway) |
+| 35 | "Regression to the mean takes care of it" | Talent regresses; capital compounds — a portfolio doesn't get worse at growing because its owner is mediocre, and the trust industry exists to guarantee that | [self-correcting.md](self-correcting.md#regression-to-the-mean-takes-care-of-it) |
+| 36 | "Look at the rich lists: it's all new names at the top" | Today's founders are tomorrow's dynasts — 2023 was the first year new billionaire wealth came more from inheritance than from founding | [self-correcting.md](self-correcting.md#look-at-the-rich-lists-its-all-new-names-at-the-top) |
 
 ## Files in this section
 
@@ -69,6 +72,7 @@
 - [slippery-slope.md](slippery-slope.md) — creeping expansion, communism, state control, register-to-wealth-tax
 - [whataboutery.md](whataboutery.md) — wealth tax, LVT, income tax, loophole-closing, with the full comparison table
 - [spend-it-all.md](spend-it-all.md) — depletion, charitable diversion, dying broke
+- [self-correcting.md](self-correcting.md) — "shirtsleeves in three generations", regression to the mean, rich-list churn
 
 ## Coverage notes
 
