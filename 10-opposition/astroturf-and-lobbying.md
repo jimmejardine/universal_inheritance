@@ -29,6 +29,16 @@ Three properties make this industry a distinctive threat:
 - **UK lobbying register gaps.** The statutory register covers only consultant lobbyists meeting narrow criteria, not in-house lobbyists — a gap Transparency International UK has long flagged [2].
 - **Donation concentration.** Both parties' funding bases include exactly the individuals with the largest stakes in this policy failing — the structural conflict documented in [../01-problem/political-capture.md](../01-problem/political-capture.md) and central to party-incentive analysis in [../12-political-adoption/party-incentives.md](../12-political-adoption/party-incentives.md).
 
+## How to read an opposition report
+
+Think-tank and coalition publications opposing the tax will look like research. A standing checklist for spokespeople and journalists:
+
+- **Who funded it?** If undisclosed, say so in every response before engaging the content.
+- **Which tax is being modelled?** Reports will frequently model an estate-based tax without threshold or endowment — a different policy from [../02-proposal/README.md](../02-proposal/README.md).
+- **What elasticities are assumed?** Capital-flight and savings-response assumptions drive most headline results; compare against the evidence base in [../08-capital-flight/evidence.md](../08-capital-flight/evidence.md) and [../16-second-order/savings-consumption.md](../16-second-order/savings-consumption.md).
+- **Are hard cases counted or narrated?** A report that leads with vignettes rather than distributional tables is a campaign document.
+- **Is the counterfactual stated?** "Revenue lost to flight" claims routinely omit what the same wealth pays under the status quo (often near zero — [../01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)).
+
 ## What to expect, in sequence
 
 1. **Pre-announcement:** think-tank reports establishing "the evidence" against; polling commissioned with estate-framed questions.

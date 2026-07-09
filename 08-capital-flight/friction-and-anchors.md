@@ -49,6 +49,21 @@ Escaping the proposed design in full requires **all** of the following, jointly:
 
 Each step has independent probability well below one; the product is small. Compare the single-step escape available against the abolished regimes catalogued in [`../05-history/abolitions.md`](../05-history/abolitions.md) — Kamprad simply moved, once, alone, and Sweden's estate-based, no-tail, no-situs-backstop design let that single act suffice. The proposal is engineered so that no single act suffices.
 
+## A worked example
+
+Consider a stylised £25m UK estate — a 68-year-old founder, a trading company worth £15m, a £4m London house, £3m in UK-listed funds and pensions, £3m in globally listed portfolio assets; three UK-resident adult children. What would full escape require?
+
+| Step | Action required | Cost / obstacle |
+|---|---|---|
+| 1 | Founder and spouse emigrate now (age 68), betting on surviving past 78 to clear the 10-year tail | Deemed-receipt exit charge on unrealised accrual at departure; leaves grandchildren, GPs, board seats |
+| 2 | Sell the trading company (situs-anchored) | Capital-gains tax; loss of the family's economic engine and identity; sale itself may take years |
+| 3 | Sell the London house and UK funds | CGT and transaction costs; proceeds now visible cash |
+| 4 | Re-deploy ~£22m offshore | Every transfer CRS-reported to HMRC; the receipts ledger records the family's positions |
+| 5 | All three children emigrate and remain non-resident for 10+ years before receiving anything | Careers, spouses, children's schooling all relocated — for a tax saving that is theirs, not the founder's, to enjoy |
+| 6 | Nobody dies, returns, or receives early for a decade-plus | Any single failure re-attaches the charge to the failing branch |
+
+At each step the family pays real, immediate, certain costs against a distant, contingent saving. The rational planner prices this chain and, in most configurations, concludes that steps 1–4 alone consume a large share of the saving before step 5's family-wide relocation is even attempted. The design goal is not to make escape impossible — it is to make the all-in price of escape approach the price of compliance, at which point the anchors decide. This worked example should be quantified properly against real CGT and transaction-cost schedules in [`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md).
+
 ## What friction does *not* do
 
 Honesty requires the converse. Friction does not stop: (a) the young founder who builds abroad from the start — a real long-run formation-location margin, addressed in [retention-attraction.md](retention-attraction.md) and [game-theory.md](game-theory.md); (b) the ultra-mobile 0.01% with multi-jurisdictional lives already in place, for whom the anchors were cut long ago — the Moretti–Wilson population, requiring the [exit-tax-design.md](exit-tax-design.md) and coordination tools; (c) portable-asset concealment, an enforcement problem rather than a migration one ([`../07-implementation/enforcement.md`](../07-implementation/enforcement.md)). Friction is the first line of defence, not the whole army.
