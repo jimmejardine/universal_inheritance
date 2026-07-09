@@ -50,6 +50,19 @@ The four layers are deliberately redundant: defeating the tax requires defeating
 | Threshold interaction | Exit charge counts against the same £500k/$750k lifetime ledger | One ledger, no separate regime to arbitrage ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)) |
 | Return rule | Liability recomputed on resumed residence; tail years don't reset the ledger | Prevents "wash emigration" — leave, receive, return |
 
+## Worked timeline: emigration under the proposed rules
+
+| Year | Event | Tax consequence |
+|---|---|---|
+| 0 | Donor (UK-resident 30+ years) ceases UK residence | Deemed-receipt exit charge assessed on unrealised accrual; collection deferred against security; counts against donor's lifetime ledger |
+| 0–10 | Donor abroad; tail running | Worldwide receipts by the donor remain in UK charge; UK-situs receipts in charge indefinitely |
+| 4 | Donor gifts foreign portfolio assets to a UK-resident child | Fully taxable receipt by the child (recipient basis — the donor's location is irrelevant) |
+| 7 | Donor dies (inside the tail) | Estate transfers treated as if donor UK-resident: worldwide receipts by any recipient in charge |
+| 12 | Alternative: donor dies after clearing the tail; heirs still UK-resident | UK-resident heirs taxable on all receipts anyway (residence limb); only non-resident heirs receiving non-UK-situs assets escape |
+| 12+ | A "non-resident" heir returns to the UK within their own look-back | Prior receipts recomputed onto their ledger; wash emigration fails |
+
+The timeline makes the §2801 point concrete: the donor's emigration, even when fully successful, changes almost nothing unless the *recipients* also emigrate durably — and the recipients are the generation with careers, partners, and children rooting them in place ([friction-and-anchors.md](friction-and-anchors.md)).
+
 ## Research gaps
 
 - Verify current §877A thresholds/exclusion amounts and the final §2801 regulations (long delayed; final rules issued 2024–25 — confirm status).

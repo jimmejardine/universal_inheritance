@@ -46,6 +46,21 @@ Think-tank and coalition publications opposing the tax will look like research. 
 3. **Committee stage:** technical consultation responses seeding carve-outs and valuation soft spots — the salami move in [attack-playbook.md](attack-playbook.md).
 4. **Post-passage:** permanent professional lobbying for erosion — see [sabotage-after-passage.md](sabotage-after-passage.md) — plus litigation funding, see [legal-challenges.md](legal-challenges.md).
 
+## Named actors worth a standing watch brief
+
+Based on the historical record and current organisational landscape (roles to verify as the campaign develops):
+
+| Actor | Type | Relevance |
+|---|---|---|
+| STEP (Society of Trust and Estate Practitioners) | Professional body | Global credentialing and policy voice of the trust industry [4] |
+| Americans for Tax Reform | Pledge/enforcement network | Historical repeal-coalition anchor — [attack-playbook.md](attack-playbook.md) |
+| Policy and Taxation Group / Family Business Coalition | Funder coordination / front | US estate-tax opposition continuity organisations |
+| NFIB, Farm Bureau (US); NFU, CLA (UK) | Sector bodies | Legitimate memberships whose brands front broader campaigns — see the 2024 APR case in [media-narratives.md](media-narratives.md) |
+| TaxPayers' Alliance, IEA and similar UK institutes | Opaque-funded advocacy | Expected sources of anti-tax research products (funding transparency to verify) [1] |
+| Offshore-jurisdiction promotional bodies | Jurisdictional interest | Marketing exit options — [../08-capital-flight/exit-options.md](../08-capital-flight/exit-options.md) |
+
+The watch brief is not a blacklist: sector bodies have legitimate members with legitimate concerns, and the correct engagement with them is the carve-out consultation described in [../02-proposal/carveouts.md](../02-proposal/carveouts.md). The brief exists so that when a body's public position diverges from its members' actual exposure (the Farm Bureau pattern), the divergence is documented and citable.
+
 ## Mitigations
 
 1. **Legislate transparency alongside the tax.** Package lobbying-register reform (extend to in-house lobbyists), think-tank funder disclosure above a de-minimis threshold, and beneficial-ownership disclosure for campaign donors into the same legislative programme. Opponents then have to fight transparency in public in order to fight the tax in private.

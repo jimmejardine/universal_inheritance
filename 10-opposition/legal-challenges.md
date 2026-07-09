@@ -27,9 +27,26 @@
 
 **Where the genuine risk lies.** A 100% *marginal* rate above £500k/$750k per recipient is a materially stronger position than a 100% *average* rate: no recipient's total receipt is confiscated, every recipient keeps at least the threshold, deferrals prevent forced sales, and the measure pursues an articulated legitimate aim (equality of opportunity, funded endowment). Each of those features maps to a limb of the proportionality analysis. The weakest points are (a) transition treatment of gifts and trusts created pre-announcement — see [../15-transition/grandfathering.md](../15-transition/grandfathering.md); (b) valuation of illiquid assets where a disputed valuation could push an effective rate above 100% of realisable value — see [../07-implementation/valuation.md](../07-implementation/valuation.md); and (c) any state-level or discriminatory residence rules engaging free-movement law — see [../02-proposal/avoidance.md](../02-proposal/avoidance.md) and [../08-capital-flight/international-coordination.md](../08-capital-flight/international-coordination.md).
 
+## The arguments as they will be pleaded, briefly located
+
+For each pleading, where the substantive answer lives:
+
+- **"A 100% rate is confiscation, not taxation."** The rate is marginal; every recipient retains at least £500k/$750k; the aim (funded equal inheritance) is legitimate and the means proportionate. Design detail: [../02-proposal/thresholds.md](../02-proposal/thresholds.md); philosophical ground: [../03-case-for/ethical.md](../03-case-for/ethical.md).
+- **"It destroys the right to inherit protected by constitutional property clauses."** Most instruments protect *property*, and death duties on transfers have co-existed with them for over a century; the German Basic Law protects inheritance explicitly, yet German courts police carve-outs, not burdens, hardest [7].
+- **"It is retrospective because wealth was accumulated under old rules."** Taxing future receipts is prospective by any standard doctrine; the accumulation-era objection would immunise all tax change forever. Transition detail: [../15-transition/grandfathering.md](../15-transition/grandfathering.md).
+- **"Forced liquidation of illiquid assets is an excessive individual burden."** No liability requires liquidation under the deferral/tender architecture — the fact pattern of *N.K.M.* is designed out [5]; see [../02-proposal/carveouts.md](../02-proposal/carveouts.md).
+- **"Cross-border rules impede capital movement."** The dual-nexus rules are origin-neutral; the CJEU line attacks discrimination, not burden [6]; coordination design in [../08-capital-flight/international-coordination.md](../08-capital-flight/international-coordination.md).
+
 ## Litigation as campaign, not merely law
 
 Expect strategically funded test cases with maximally sympathetic claimants (the pattern of US public-interest litigation shops, mirrored by donor-funded UK judicial reviews). The suit's press release matters more than its prospects: "family farm takes the government to court" runs on the front page whether or not permission is granted. Interaction with [media-narratives.md](media-narratives.md) and funder opacity in [astroturf-and-lobbying.md](astroturf-and-lobbying.md).
+
+Expected sequence:
+
+1. **Pre-enactment:** commissioned legal opinions declaring the bill unconstitutional/Convention-incompatible, published to move wavering legislators.
+2. **On commencement:** applications for interim relief/preliminary references timed to freeze implementation through a budget cycle.
+3. **Years 1–3:** the sympathetic-claimant test case on valuation or hardship facts, litigation-funded through vehicles mapped in [astroturf-and-lobbying.md](astroturf-and-lobbying.md).
+4. **Ongoing:** a steady drizzle of technical challenges whose settlement pressure produces administrative concessions — erosion by consent order, feeding [sabotage-after-passage.md](sabotage-after-passage.md).
 
 ## Mitigations
 

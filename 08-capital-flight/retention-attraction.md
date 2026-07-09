@@ -56,6 +56,20 @@ The covenant reframes the top of the distribution from *targets* to *founders* �
 
 A jurisdiction adopting the proposal remains attractive to *incoming* wealth-builders: no wealth tax, no extra income tax, full consumption freedom, and a £500k-per-recipient allowance that exceeds what most arriving entrepreneurs expect to transfer anyway. The regime is arguably *more* attractive than the status quo to the self-made — it taxes the competitor's heirs, not the builder — a wedge developed in [`../12-political-adoption/wedge-dynamics.md`](../12-political-adoption/wedge-dynamics.md). The formation-location margin (founders choosing where to build from day one) is the genuine long-run exposure, and it is governed by the agglomeration table above, not by death-tax rates fifty years out ([game-theory.md](game-theory.md)).
 
+## The graceful-exit principle
+
+Retention policy should not shade into vindictiveness. Those who genuinely wish to leave should be able to do so on published, priced, dignified terms: the exit charge is assessed, collection is deferred to realisation, and the door back is open (with ledger continuity — [exit-tax-design.md](exit-tax-design.md)). Three reasons. *Practically*, punitive exit regimes invite the legal challenges mapped in [`../10-opposition/legal-challenges.md`](../10-opposition/legal-challenges.md) and hand the opposition its martyrs. *Politically*, the regime's legitimacy rests on the claim that it constrains dynasty, not persons; a Berlin-Wall framing would concede the liberty objection of [`../04-case-against/liberty-autonomy.md`](../04-case-against/liberty-autonomy.md). *Strategically*, a calm, priced exit converts each departure from a scandal into a transaction — the abolition-era pattern of national-humiliation headlines ([`../05-history/abolitions.md`](../05-history/abolitions.md)) fed on the drama of escape, and a regime that shrugs and cashes the exit charge starves that narrative.
+
+## Measuring retention success
+
+Indicators the regime should publish annually, so the flight debate runs on data rather than anecdote:
+
+- Net migration of individuals above the threshold-relevant wealth bands (arrivals vs departures), against a pre-reform baseline.
+- Exit-charge receipts and deferred-collection balances.
+- Share of above-threshold estates electing the charitable and civic-legacy channels.
+- New-business formation by founders in top wealth deciles (the formation-location margin).
+- The counterpart erosion metrics committed to in [`../05-history/abolitions.md`](../05-history/abolitions.md) §"How future policy can rescue this."
+
 ## Research gaps
 
 - Survey/experimental evidence on whether honours and naming meaningfully substitute for bequest utility among HNWIs (the "status vs transfer" elasticity — largely unstudied).
