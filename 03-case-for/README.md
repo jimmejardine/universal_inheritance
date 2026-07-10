@@ -24,6 +24,7 @@ Each reinforcement takes one pillar's strongest thread and develops it to full d
 | 7 | Republican | [democratic-renewal.md](democratic-renewal.md) | Pillar 4 (civic) + [ethical.md](ethical.md) §8 | The republic already once deliberately destroyed hereditary wealth mechanics (entail, primogeniture); renewing that operation is constitutional-order maintenance, not redistribution |
 | 8 | Endowment | [equal-start.md](equal-start.md) | The grant half of every pillar | Rawls, Dworkin, and the capabilities approach all imply a capital grant; redistributing *starts* rather than *flows* legitimises the market outcomes that follow |
 | 9 | Empirical-historical | [historical-precedents-of-success.md](historical-precedents-of-success.md) | All pillars | Every component of the proposal has been tried at scale — dynastic breaks, 70–80% transfer taxes, mass capital grants — and the predicted catastrophes did not occur |
+| 10 | Instrument choice | [wealth-tax-comparison.md](wealth-tax-comparison.md) | Pillar 3 (structural) | The proposal is categorically not a wealth tax, and beats the annual wealth tax on efficiency, administration, migration, and survival — while honestly conceding what the wealth tax does better (it bites now) |
 
 ## Why all five matter together
 
@@ -47,7 +48,6 @@ The reinforcements close the remaining flanks: **optimal-tax-theory** answers "s
 ## What still needs doing in this section
 
 - Empirical deepening of the "heir-harm" literature — much is clinical and anecdotal; more systematic evidence would strengthen the virtue-ethics case.
-- A dedicated comparison with progressive wealth tax (as favoured by Saez–Zucman) showing why a transfer tax is structurally superior — currently sketched in `piketty-r-vs-g.md` §4 but could be expanded.
 - A short piece specifically for business-owner audiences framing the proposal's compatibility with entrepreneurial dynamism.
 - The religious-traditions sub-argument in `ethical.md` could be promoted to a standalone file if the audience-targeting strategy in section 06 calls for it. (The civic-republican sub-argument has now been promoted: see [democratic-renewal.md](democratic-renewal.md).)
 - Verification pass on the quantitative claims flagged "(to verify)" in [optimal-tax-theory.md](optimal-tax-theory.md), [equal-start.md](equal-start.md), and [historical-precedents-of-success.md](historical-precedents-of-success.md) — particularly the Piketty–Saez calibrated optima, the CTF/SEED OK effect sizes, and the land-reform and GI Bill magnitudes.

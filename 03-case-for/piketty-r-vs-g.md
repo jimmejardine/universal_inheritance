@@ -38,7 +38,7 @@ If r > g, redistributing labour income cannot stabilise W/Y: capital grows faste
 - imposes deadweight loss on a *decedent* who can no longer reallocate labour supply or consumption in response — the textbook efficient-taxation target [1];
 - aligns with a normative baseline (equality of opportunity) that income taxes violate.
 
-This is why Piketty himself, in *Capital and Ideology*, shifts emphasis from the annual wealth tax to a lifetime-receipt inheritance regime [2].
+This is why Piketty himself, in *Capital and Ideology*, shifts emphasis from the annual wealth tax to a lifetime-receipt inheritance regime [2]. The full instrument-by-instrument comparison — equivalence arithmetic, the OECD abolition record, and the honest column of what a wealth tax does better — is [wealth-tax-comparison.md](wealth-tax-comparison.md).
 
 ## 5. Quantitative sensitivity
 
