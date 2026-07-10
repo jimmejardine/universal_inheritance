@@ -8,12 +8,12 @@
 
 ## The proposal
 
-| Element | Specification (details to verify against the text) |
+| Element | Specification (verified against the authors' 2004 restatement [5] and contemporary reviews [6][7]) |
 |---|---|
-| The stake | **$80,000** to every US citizen, paid in instalments around ages 21–25 |
-| Conditions | High-school completion for unrestricted access; no other conditions — spend, invest, or squander ("stakeblowing" is the citizen's right and responsibility) |
-| Initial funding | An annual **2% wealth tax** above an $80,000 exemption — deliberately symmetrical: the wealth that funds stakes is itself partly the product of prior social cooperation |
-| Mature funding | **Payback at death**: each stakeholder owes the stake back, with interest, as a *first claim on their estate*; over decades the system becomes self-financing and the wealth tax can recede |
+| The stake | **$80,000** to every US citizen, collected "in four annual installments of $20,000 each" from age 21 (or on entering college, whichever comes first) [5][7] |
+| Conditions | High-school completion — without a diploma the stake pays out as annual interest only, "a variation on basic income" — and staying "clear of crime"; nothing else: spend, invest, or squander ("stakeblowing" is the citizen's right and responsibility) [5] |
+| Initial funding | An annual **2% wealth tax**, with an $80,000 exemption in the book [6] — deliberately symmetrical: the wealth that funds stakes is itself partly the product of prior social cooperation. (The authors' 2004 restatement raises the exemption to $230,000 per individual, exempting 80% of Americans [5]) |
+| Mature funding | **Payback at death**: "Stakeholders who have done well with their $80,000 must pay back their stake, with interest, upon their death" [5] — an expected ~$250,000 per estate [7]; over decades the system becomes self-financing and the wealth tax can "reduce, or perhaps eliminate" [5] |
 | Supplement | A proposal for "citizen pensions" and, in later Ackerman–Alstott work, a stiffened estate/"privilege" tax on the largest fortunes |
 
 ### Why the payback design matters
@@ -26,14 +26,14 @@ The payback mechanism is the book's under-appreciated structural insight, and th
 
 ## Justification: freedom, not welfare
 
-Ackerman and Alstott frame the stake as the material precondition of the liberal promise — "the freedom to shape one's own life" requires capital at the moment life-shaping decisions are made, not income support after failure (paraphrase; quote to verify) [1]. Key moves: the stake is universal (no means test, no stigma); it is *capital*, conferring the planning horizon and risk-bearing capacity the propertied classes give their children privately; and it is owed as *justice*, not compassion — inherited social capital belongs to all members. This is the same justificatory chassis as [../03-case-for/ethical.md](../03-case-for/ethical.md), and the strongest available reply to the liberty objection examined in [../04-case-against/liberty-autonomy.md](../04-case-against/liberty-autonomy.md): the proposal *extends* the class of people with meaningful economic liberty.
+Ackerman and Alstott frame the stake as the material precondition of the liberal promise — citizens' "real freedom to shape their lives" (their phrase, deployed against basic income, which they argue "restricts" that freedom [5]) requires capital at the moment life-shaping decisions are made, not income support after failure [1][5]. Key moves: the stake is universal (no means test, no stigma); it is *capital*, conferring the planning horizon and risk-bearing capacity the propertied classes give their children privately; and it is owed as *justice*, not compassion — inherited social capital belongs to all members. This is the same justificatory chassis as [../03-case-for/ethical.md](../03-case-for/ethical.md), and the strongest available reply to the liberty objection examined in [../04-case-against/liberty-autonomy.md](../04-case-against/liberty-autonomy.md): the proposal *extends* the class of people with meaningful economic liberty.
 
 ## Reception and influence
 
 Academically the book triggered a substantial literature — including the *Redesigning Distribution* volume (2006), where Ackerman–Alstott's basic capital debated Van Parijs's basic income, a fork still structuring the field (stock vs flow; one decision point vs lifelong floor) [2]. Politically its footprint is concrete:
 
 - **UK Child Trust Fund (2002/2005).** The Blair government's CTF — £250–£500 endowed at birth for every child, maturing at 18 — was the first national implementation of asset-based welfare, with stakeholding and Julian Le Grand's kindred proposals among its cited inspirations [3]. Abolished for new children in 2010 by the coalition; the matured accounts (from 2020) delivered sums too small to be life-shaping — the key pilot lesson: *scale is constitutive*, a token stake tests nothing. Assessed as a pilot in [../15-transition/pilots.md](../15-transition/pilots.md).
-- **US baby bonds.** Darity and Hamilton's baby-bonds proposals (progressively scaled endowments to ~$50k–$60k for the poorest children, framed around the racial wealth gap), Senator Booker's American Opportunity Accounts Act, and enacted state schemes (Connecticut 2021, the first funded state baby-bonds programme; DC's programme; others pending — status to verify) descend from the same lineage [4].
+- **US baby bonds.** Darity and Hamilton's baby-bonds proposals (progressively scaled endowments to ~$50k–$60k for the poorest children, framed around the racial wealth gap), Senator Booker's American Opportunity Accounts Act, and enacted state schemes descend from the same lineage [4]. Connecticut (2021) remains the first funded state programme; a cautionary coda: DC's Child Trust Fund ("baby bonds"), enacted 2021, was repealed effective 30 September 2025 in the District's FY2026 Budget Support Act [8] — an instance of the defunding-by-budget pattern documented in [abolitions.md](abolitions.md).
 - **Direct lineage to this project's sources.** Atkinson's minimum inheritance ([atkinson.md](atkinson.md)) and Piketty's €120k endowment ([piketty.md](piketty.md)) both cite the stakeholder proposal as the American benchmark.
 
 The main criticisms recorded in the reception: the "stakeblowing" problem (answered by the authors on autonomy grounds, and empirically informed by cash-transfer literature — see [../16-second-order/endowment-effects.md](../16-second-order/endowment-effects.md)); the wealth-tax funding leg (administratively the weakest element, as later wealth-tax experience confirmed); and the political thinness of a scheme whose benefits arrive decades after its costs — the sequencing problem treated in [../15-transition/sequencing.md](../15-transition/sequencing.md).
@@ -52,18 +52,11 @@ The *Redesigning Distribution* debate fixed the terms on which capital grants ar
 
 The last row is the decisive one for this project: only the stake form makes the policy a single, self-describing loop — cap private inheritance, pay universal inheritance — rather than one more tax funding one more benefit. The choice is defended on communications grounds in [../14-communications/naming-and-language.md](../14-communications/naming-and-language.md) and on design grounds in [../02-proposal/endowment.md](../02-proposal/endowment.md).
 
-## Verification checklist
+## Verification status
 
-- The stake amount ($80,000), payment ages and instalment structure, and the high-school condition, against the 1999 text.
-- The wealth-tax parameters (2% rate; $80,000 exemption — sometimes reported as $230,000 for households; resolve).
-- The payback mechanism's exact terms: interest rate, priority of the estate claim, and treatment of insolvent estates.
-- The "freedom to shape one's own life" formulation and the authors' later restatements (Ackerman–Alstott 2004 "Why Stakeholding?").
-- CTF citation trail: confirm the HM Treasury consultation documents' references to stakeholding and asset-based welfare.
-- Current status of Connecticut, DC, and other state baby-bonds programmes.
-- The CTF maturity evidence (average balances at 18 from 2020 onward; the dormancy/unclaimed-accounts problem) — the quantitative basis for the "scale is constitutive" lesson and for this project's age-25 choice.
-- Le Grand's parallel "demogrant"/asset-based welfare proposals and their distinct lineage into the CTF.
-- Whether the book itself uses the "inheritance for all" or "universal inheritance" phrasing later associated with Piketty and Atkinson, for the terminology history in [../14-communications/naming-and-language.md](../14-communications/naming-and-language.md).
-- Alstott's later solo work (*A New Deal for Old Age*; her 2007–08 articles on equal-opportunity inheritance taxation) as the bridge from stakeholding to receipts-tax design.
+- **Confirmed** against the authors' own restatement ("Why Stakeholding?", 2004 [5]) and contemporary reviews [6][7]: the $80,000 stake in four annual $20,000 instalments from 21 (or college entry); the high-school condition (diploma-less citizens receive interest only) and the stay-"clear of crime" condition; the 2% wealth-tax rate; payback with interest at death, after which the wealth tax can recede. The exemption discrepancy is resolved: $80,000 in the 1999 book [6], raised to $230,000 per individual (exempting 80% of Americans) in the 2004 restatement [5].
+- **Confirmed:** DC baby-bonds repeal, effective 30 September 2025 [8]; Connecticut's programme stands.
+- **Still open:** the payback interest rate and treatment of insolvent estates; the CTF citation trail in HM Treasury consultation documents; the CTF maturity evidence (average balances at 18 from 2020 onward; dormancy/unclaimed accounts) — the quantitative basis for the "scale is constitutive" lesson and this project's age-25 choice; Le Grand's parallel "demogrant" proposals; whether the book itself uses "inheritance for all"/"universal inheritance" phrasing, for [../14-communications/naming-and-language.md](../14-communications/naming-and-language.md); Alstott's later solo work as the bridge from stakeholding to receipts-tax design.
 
 ## What this lends the present proposal
 
@@ -74,7 +67,11 @@ The last row is the decisive one for this project: only the stake form makes the
 
 ## Sources
 
-1. Ackerman, B. and Alstott, A. (1999). *The Stakeholder Society*. Yale University Press — primary source; stake size, funding schedule and conditions to verify against the text.
+1. Ackerman, B. and Alstott, A. (1999). *The Stakeholder Society*. Yale University Press — primary source.
 2. Ackerman, B., Alstott, A. and Van Parijs, P. (2006). *Redesigning Distribution: Basic Income and Stakeholder Grants as Cornerstones for an Egalitarian Capitalism*. Verso.
 3. [HM Treasury (2003). *Detailed Proposals for the Child Trust Fund*; House of Commons Library briefing on the Child Trust Fund](https://commonslibrary.parliament.uk/research-briefings/sn01318/) — CTF design, lineage and abolition.
 4. [Hamilton, D. and Darity, W. (2010). "Can 'Baby Bonds' Eliminate the Racial Wealth Gap?" *Review of Black Political Economy* 37(3)](https://doi.org/10.1007/s12114-010-9063-1); Connecticut Baby Bonds programme documentation (Office of the Treasurer).
+5. [Ackerman, B. and Alstott, A. (2004). "Why Stakeholding?" *Politics & Society* 32(1), 41–60](https://library.fes.de/libalt/journals/swetsfulltext/19081613.pdf) — the authors' restatement; source of the instalment, condition, exemption and payback details quoted above.
+6. [Kirkus Reviews (1999). Review of *The Stakeholder Society*](https://www.kirkusreviews.com/book-reviews/bruce-ackerman/the-stakeholder-society/) — confirms the book's wealth tax "with an exemption level of $80,000" and payback "with interest."
+7. [Salon (28 April 1999). "The Stakeholder Society"](https://www.salon.com/1999/04/28/ackerman/) — "$20,000 a year for four years" from college entry or 21; "eventually … paid for by $250,000 contributions from the estates of deceased program recipients."
+8. [Thomson Reuters Tax & Accounting (2025). "District of Columbia Enacts 2026 Budget Support Legislation"](https://tax.thomsonreuters.com/news/district-of-columbia-enacts-2026-budget-support-legislation/) — "Effective September 30, 2025, the Child Wealth Building Act of 2021 … is repealed."
