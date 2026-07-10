@@ -1,4 +1,4 @@
-# Universal Inheritance: The most capitalist policy never tried.  A Research Project
+# Universal Inheritance: The most capitalist policy never tried.  A Research Project.
 
 ## TLDR;
 
