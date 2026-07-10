@@ -23,6 +23,7 @@
 | [friction-and-anchors.md](friction-and-anchors.md) | What keeps wealthy people in place? | Businesses, family, status ecosystems, ageing — and the immovability of situs assets |
 | [exit-tax-design.md](exit-tax-design.md) | How do you tax those who do leave? | Deemed-disposal charges, trailing liability, the [US §877A/§2801](https://www.irs.gov/individuals/international-taxpayers/expatriation-tax) model, the proposal's 10-year tail — all within ECHR/EU-law constraints |
 | [retention-attraction.md](retention-attraction.md) | What is the positive case for staying? | Deep markets, talent, culture, courts; "live as richly as you like — you just can't found a dynasty"; a reputational covenant for compliant estates |
+| [inbound-wealth.md](inbound-wealth.md) | How are arrivals accounted for, and do we want inherited fortunes to immigrate? | One worldwide ledger that never resets at the border; a Japan-style on-ramp; inbound dynastic wealth as a one-generation harvest; the skilled migrant's inheritance-forfeiture exposure sized at low single digits — and a second-generation offer that runs the other way |
 | [international-coordination.md](international-coordination.md) | Can flight be closed off multilaterally? | CRS/FATCA/Pillar Two prove floors are achievable; a minimum-inheritance-tax treaty is the target; unilateral tools exist meanwhile |
 | [game-theory.md](game-theory.md) | Who moves first, and does it pay? | First-mover risk is manageable; a UK+EU+US coalition covers most inheritable wealth; haven capacity is a natural brake |
 
@@ -70,5 +71,6 @@ This section's conclusion is contingent, not axiomatic. It would need revision i
 - [friction-and-anchors.md](friction-and-anchors.md) — what anchors the wealthy; the situs asymmetry
 - [exit-tax-design.md](exit-tax-design.md) — deemed disposal, trailing tails, §877A/§2801, legal constraints
 - [retention-attraction.md](retention-attraction.md) — the positive case; consumption, honours, philanthropy
+- [inbound-wealth.md](inbound-wealth.md) — entry ledger, the residence on-ramp, and the inbound-dynast question
 - [international-coordination.md](international-coordination.md) — CRS, FATCA, Pillar Two, treaty design
 - [game-theory.md](game-theory.md) — first movers, coalitions, and the post-2008 equilibrium shift
