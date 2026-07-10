@@ -60,7 +60,7 @@ Moral Foundations Theory (Haidt, Graham) finds conservatives weight proportional
 |---|---|---|
 | Proportionality / fairness-as-desert | "He earned it, don't take it" | "The heir earned nothing — reward must track contribution" (the Carnegie argument, [`../05-history/carnegie-1889.md`](../05-history/carnegie-1889.md)) |
 | Sanctity / degradation | "Taxing death is ghoulish" | "Idle heirs are degraded by unearned fortune" — purity-of-merit; see [`../03-case-for/heirs-burden.md`](../03-case-for/heirs-burden.md) and [`../16-second-order/heirs-and-work.md`](../16-second-order/heirs-and-work.md) |
-| Liberty | "Confiscation by the state" | "Aristocracy of wealth is the old enemy of the free market" — anti-dynasty as anti-feudalism |
+| Liberty | "Confiscation by the state" | "Aristocracy of wealth is the old enemy of the free market" — anti-dynasty as anti-feudalism ([`../00-capitalism/feudal-remnant.md`](../00-capitalism/feudal-remnant.md)) |
 | Loyalty / family | "Family comes first" | "Every family's children get the endowment; four children inherit £2m untaxed" |
 
 The operational translation of this table — which messenger says which sentence to which audience — belongs to [`../14-communications/audience-messaging.md`](../14-communications/audience-messaging.md) and [`../13-movement/messengers.md`](../13-movement/messengers.md); the bloc-by-bloc application is in [coalition.md](coalition.md).

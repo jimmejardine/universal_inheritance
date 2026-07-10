@@ -1,6 +1,6 @@
 # Fairness Objections
 
-**Executive summary.** The fairness objections — double taxation, punished prudence, envy, and "it's my money" — are the ones most often delivered with genuine moral conviction, and each contains a truth worth conceding before the rebuttal. The recipient basis of the proposal dissolves most of them structurally: the person who earned and was taxed is never taxed again, because the tax falls on someone who has never paid a penny on this money.
+**Executive summary.** The fairness objections — double taxation, punished prudence, envy, "it's my money", and the accustomed comforts of wealthy children — are the ones most often delivered with genuine moral conviction, and each contains a truth worth conceding before the rebuttal. The recipient basis of the proposal dissolves most of them structurally: the person who earned and was taxed is never taxed again, because the tax falls on someone who has never paid a penny on this money.
 
 Rules of engagement: concede, one-liner, full answer. Master table in [README.md](README.md). The philosophical foundations are in [`../03-case-for/ethical.md`](../03-case-for/ethical.md).
 
@@ -64,6 +64,23 @@ Rules of engagement: concede, one-liner, full answer. Master table in [README.md
 - **The honest residue** — the donor's liberty interest in directing wealth after death — is a genuine value conflict, steelmanned rather than dismissed in [`../04-case-against/liberty-autonomy.md`](../04-case-against/liberty-autonomy.md).
 
 **Deep treatment:** [`../03-case-for/ethical.md`](../03-case-for/ethical.md) · [`../04-case-against/liberty-autonomy.md`](../04-case-against/liberty-autonomy.md) · [`../05-history/mill-1848.md`](../05-history/mill-1848.md)
+
+## "Wealthy children shouldn't be stripped of the life they've grown up with"
+
+**Concede first.** The intuition has a real legal pedigree: English divorce law protects the financially weaker spouse's accustomed standard of living — "needs, generously interpreted" against the marital standard (*White v White*; *Miller; McFarlane* — to verify) — precisely because dropping someone abruptly from a life they were built into is recognised as a harm. People raised inside wealth do experience its loss as loss, and a serious proposal should not sneer at that.
+
+**One-line answer.** Family law itself rejects the analogy: divorce protection rests on a *partner's contribution to a shared life*, and where the law meets the actual claim — adult children against a parent's estate — it caps them at maintenance, not lifestyle, a standard the £500k allowance plus the endowment exceeds several times over.
+
+**Full answer.**
+
+- **The divorce award is partnership equity, not lifestyle entitlement.** *White v White* forbade discriminating between breadwinner and homemaker because both *contributed* to the wealth being divided; the sharing principle attaches to the matrimonial acquest the couple built together. A child contributed nothing to the parents' fortune; their upbringing was the parents' consumption, already enjoyed. Import the divorce standard honestly and it awards the heir a share of what the heir helped build: nothing, or the family firm's sweat-equity credit ([`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)) — which the design already grants.
+- **Divorce law's own boundaries cut against the objection.** Even between spouses, courts distinguish matrimonial from non-matrimonial property (inherited and pre-marital wealth is routinely ring-fenced) and confine many awards to needs. The body of law invoked as protecting accustomed luxury spends much of its energy *refusing* to treat accustomed luxury as a right where contribution is absent.
+- **The direct precedent already exists and decides the question.** The Inheritance (Provision for Family and Dependants) Act 1975 lets courts override wills — but limits able-bodied adult children to "maintenance," and they routinely recover little or nothing absent dependency (*Re Coventry*; *Ilott v The Blue Cross* — to verify). English law has considered the exact claim — adult children's entitlement to their parents' standard of living — for fifty years and rejected it.
+- **The design out-provides any court.** £500k per recipient, the endowment, unlimited parental spending on upbringing and education during life: no 1975 Act judge has ever awarded an adult child anything close. What is removed is not comfort but *command of a fortune* — and genuine dependency (minor children, disabled adult children) is a carve-out question handled on its own terms ([`../07-implementation/hard-cases.md`](../07-implementation/hard-cases.md)).
+- **Legitimate expectations get transition treatment, not permanence.** Those who ordered their lives around promised inheritances are met by announcement lead-times and grandfathering ([`../15-transition/grandfathering.md`](../15-transition/grandfathering.md)) — the law's standard answer to settled expectations, which softens the change without perpetuating the arrangement.
+- **The jujitsu:** the analogy proves the principle it was recruited against. Divorce law and the 1975 Act are the state overriding private wealth arrangements in the name of fairness, using a standard of *contribution and need*. Apply that standard to inheritance and you get something very like this proposal.
+
+**Deep treatment:** [`../03-case-for/heirs-burden.md`](../03-case-for/heirs-burden.md) · [`../04-case-against/liberty-autonomy.md`](../04-case-against/liberty-autonomy.md) · [`../15-transition/grandfathering.md`](../15-transition/grandfathering.md)
 
 ## The recipient-basis master key
 

@@ -61,12 +61,13 @@
 | 34 | "Family wealth is squandered within three generations anyway" | That's a proverb, not a dataset: surname studies find elite wealth persisting ten-plus generations, and the inherited share of top wealth is rising, not decaying | [self-correcting.md](self-correcting.md#family-wealth-is-squandered-within-three-generations-anyway) |
 | 35 | "Regression to the mean takes care of it" | Talent regresses; capital compounds — a portfolio doesn't get worse at growing because its owner is mediocre, and the trust industry exists to guarantee that | [self-correcting.md](self-correcting.md#regression-to-the-mean-takes-care-of-it) |
 | 36 | "Look at the rich lists: it's all new names at the top" | Today's founders are tomorrow's dynasts — 2023 was the first year new billionaire wealth came more from inheritance than from founding | [self-correcting.md](self-correcting.md#look-at-the-rich-lists-its-all-new-names-at-the-top) |
+| 37 | "Wealthy children shouldn't be stripped of the life they've grown up with" | Family law itself rejects the claim: divorce protection rests on a partner's contribution, and the 1975 Act caps adult children at maintenance, not lifestyle — a standard the £500k allowance plus endowment exceeds | [fairness.md](fairness.md#wealthy-children-shouldnt-be-stripped-of-the-life-theyve-grown-up-with) |
 
 ## Files in this section
 
 - [economic.md](economic.md) — incentives, savings, founders, "tax on success"
 - [avoidance.md](avoidance.md) — dodging, lawyers, billionaire escape, early gifts, and the asymmetric-perfectionism fallacy
-- [fairness.md](fairness.md) — double taxation, prudence, envy, "my money"
+- [fairness.md](fairness.md) — double taxation, prudence, envy, "my money", accustomed comforts
 - [family.md](family.md) — farms and businesses, the family home, parental provision, generational bonds, grief
 - [practicality.md](practicality.md) — valuation, state waste, trivial revenue, admin costs
 - [slippery-slope.md](slippery-slope.md) — creeping expansion, communism, state control, register-to-wealth-tax

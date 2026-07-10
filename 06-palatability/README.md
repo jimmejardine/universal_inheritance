@@ -47,6 +47,7 @@ Inheritance tax is consistently one of the *most unpopular* taxes in Western pol
 | [framing.md](framing.md) | The framing psychology — "death tax" as linguistic engineering, loss aversion and the counter-endowment effect, POUM/lottery bias, effort-vs-luck deservingness, moral foundations for reaching conservatives, and the findings-to-design map |
 | [coalition.md](coalition.md) | Full bloc-by-bloc profiles (material interest, values entry, objections, messengers, strategy), the stylised winners/losers ledger under the £500k/£50k design, and the minimum-winning-coalition arithmetic |
 | [case-studies.md](case-studies.md) | Campaigns proving palatability is malleable — US "death tax" repeal, the UK 2007 panic, the Swiss 2015 referendum, the 2024–25 farm protests, and the positive precedents (Child Trust Fund, minimum wage, marriage equality) — with a transferable-lessons table |
+| [mass-affluent.md](mass-affluent.md) | The dinner-party audience — families with £500k–£5m and children: the honest crossover arithmetic (spread beats stack), the P90 perspective anchor, what their descendants gain, and the conversation doctrine |
 
 ## Division of labour with the strategy sections
 
