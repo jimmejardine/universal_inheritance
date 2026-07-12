@@ -18,6 +18,7 @@ This section is about *opponents and tactics* — who attacks, through what chan
 | Strategic litigators | Takings/A1P1/retrospectivity suits as delay and narrative | Moderate | Proportionality-first drafting; severability; no forced sales — [legal-challenges.md](legal-challenges.md) |
 | Opposition researchers and online mobs | Hypocrisy-hunting, envy/communism framing, doxxing of advocates | Moderate (high for individuals) | Disclosure-first norms; wealthy-defector messengers; institutional fronting — [personal-attacks.md](personal-attacks.md) |
 | Future legislators and captured administrators | Post-passage hollowing: frozen thresholds, stuffed carve-outs, defunded enforcement, sunsets | Critical (long-run) | Statutory indexation; hypothecation to the named endowment; independent administration — [sabotage-after-passage.md](sabotage-after-passage.md) |
+| Extra-legal actors (private intelligence, transnational oligarch/kleptocrat wealth) | Surveillance, infiltration, hacking, financial strangulation, corruption, disinformation; violence only at the kleptocratic extreme | Low probability / high consequence | Distributed leadership; radical transparency; proportionate security culture; non-escalation doctrine — [extra-legal-playbook.md](extra-legal-playbook.md) |
 
 Severity reflects capacity to defeat or gut the policy, not volume of noise. The two critical-rated classes at top and bottom of the table bracket the campaign's life: the framing war decides whether the tax passes; the attrition war decides whether it survives.
 
@@ -49,7 +50,7 @@ Five mitigations recur across every file and constitute the section's core doctr
 | [../15-transition/](../15-transition/) | Sequencing and legislative-path decisions that close attack windows |
 | [../05-history/abolitions.md](../05-history/abolitions.md) | The post-mortems of taxes that lost these fights |
 
-Suggested reading order: [attack-playbook.md](attack-playbook.md) first (the template everything else varies), then [media-narratives.md](media-narratives.md) and [astroturf-and-lobbying.md](astroturf-and-lobbying.md) (the delivery systems), then [elite-media-capture.md](elite-media-capture.md), [legal-challenges.md](legal-challenges.md), and [personal-attacks.md](personal-attacks.md) (specialised fronts), ending with [sabotage-after-passage.md](sabotage-after-passage.md) (the war after the war).
+Suggested reading order: [attack-playbook.md](attack-playbook.md) first (the template everything else varies), then [media-narratives.md](media-narratives.md) and [astroturf-and-lobbying.md](astroturf-and-lobbying.md) (the delivery systems), then [elite-media-capture.md](elite-media-capture.md), [legal-challenges.md](legal-challenges.md), and [personal-attacks.md](personal-attacks.md) (specialised fronts), then [sabotage-after-passage.md](sabotage-after-passage.md) (the war after the war) and [co-optation.md](co-optation.md) (the soft kill and the acceptance tests), ending with [extra-legal-playbook.md](extra-legal-playbook.md) (the escalation ladder beyond lawful politics).
 
 ## Files in this section
 
@@ -62,6 +63,8 @@ Suggested reading order: [attack-playbook.md](attack-playbook.md) first (the tem
 | [elite-media-capture.md](elite-media-capture.md) | Press owners as dynasts; expected editorial behaviour; the Murdoch and Redstone succession sagas as free advertising for the thesis |
 | [personal-attacks.md](personal-attacks.md) | Hypocrisy-hunting, envy framing, red-baiting, harassment — and the disclosure-first, defector-led counter |
 | [sabotage-after-passage.md](sabotage-after-passage.md) | The attrition war: threshold freezes, carve-out stuffing, enforcement defunding, valuation capture, sunsets — and the entrenchment architecture |
+| [extra-legal-playbook.md](extra-legal-playbook.md) | Attacks outside lawful politics: the surveillance-to-violence escalation ladder with honest base rates, why lawful capture usually dominates, and the defensive architecture (distributed leadership, transparency, security culture, non-escalation) |
+| [co-optation.md](co-optation.md) | The soft kill: philanthropy-as-deflection, voluntary pledges, commission-and-bury, token concessions, funded moderates — and the pre-registered acceptance tests that separate ratchet-steps from traps |
 
 ## What still needs doing
 

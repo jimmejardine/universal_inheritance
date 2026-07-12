@@ -17,22 +17,32 @@ This section is **organising doctrine**: recruitment, structure, money, alliance
 | File | Question answered |
 |---|---|
 | [theory-of-change.md](theory-of-change.md) | What is the full causal chain from manifesto to entrenched law, and what milestones falsify it? |
+| [closing-window.md](closing-window.md) | How much time remains before billionaire blocking power forecloses reform, and which indicators measure the window? |
 | [recruitment.md](recruitment.md) | Who joins, in what order, found where, converted how? |
+| [engagement-ladder.md](engagement-ladder.md) | What can one sympathiser actually do today — the supporter-side action menu, rung by rung? |
 | [messengers.md](messengers.md) | Whose face and voice carries the idea to each audience? |
+| [heir-defectors.md](heir-defectors.md) | How are young wealthy heirs converted into the movement's most powerful champions? |
+| [outreach-academics.md](outreach-academics.md) | Which named scholars to approach, on what published basis, with what specific ask? |
 | [organisational-forms.md](organisational-forms.md) | What legal and organisational structures to build, in what sequence? |
 | [funding.md](funding.md) | Who pays, and how to take money without being owned by it? |
 | [coalitions.md](coalitions.md) | Which adjacent movements to ally with, and on what terms? |
 | [precedents.md](precedents.md) | Which fringe-to-mainstream campaigns to copy, and which failures to study? |
+| [first-twelve-months.md](first-twelve-months.md) | What does the founder literally do in months 0–12, and how is the month-12 kill/pivot/scale decision made? |
 
 ## Files in this section
 
 - [theory-of-change.md](theory-of-change.md)
+- [closing-window.md](closing-window.md)
 - [recruitment.md](recruitment.md)
+- [engagement-ladder.md](engagement-ladder.md)
 - [messengers.md](messengers.md)
+- [heir-defectors.md](heir-defectors.md)
+- [outreach-academics.md](outreach-academics.md)
 - [organisational-forms.md](organisational-forms.md)
 - [funding.md](funding.md)
 - [coalitions.md](coalitions.md)
 - [precedents.md](precedents.md)
+- [first-twelve-months.md](first-twelve-months.md)
 
 ## Three organising judgements that shape everything downstream
 

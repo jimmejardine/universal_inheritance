@@ -48,7 +48,7 @@ And raises the payoff by:
 The section is designed to be read two ways:
 
 - **For the theory:** [party-incentives.md](party-incentives.md) → [electoral-arithmetic.md](electoral-arithmetic.md) → [wedge-dynamics.md](wedge-dynamics.md) — the general machinery of self-interested adoption.
-- **For a specific party:** go straight to [left-parties.md](left-parties.md), [right-parties.md](right-parties.md), or [centrists-and-liberals.md](centrists-and-liberals.md), then [stepping-stones.md](stepping-stones.md) for what that party can adopt this cycle, then [policy-entrepreneurs.md](policy-entrepreneurs.md) for how to get it onto their desk.
+- **For a specific party:** go straight to [left-parties.md](left-parties.md), [right-parties.md](right-parties.md), or [centrists-and-liberals.md](centrists-and-liberals.md), then [stepping-stones.md](stepping-stones.md) for what that party can adopt this cycle, then [policy-entrepreneurs.md](policy-entrepreneurs.md) and [target-politicians.md](target-politicians.md) for how to get it onto whose desk.
 
 ## What this section deliberately excludes
 
@@ -76,6 +76,7 @@ The section is designed to be read two ways:
 - [centrists-and-liberals.md](centrists-and-liberals.md) — the differentiation and kingmaker case for liberal and centrist parties
 - [wedge-dynamics.md](wedge-dynamics.md) — how the policy splits opposing coalitions, and design choices that sharpen or blunt the wedge
 - [policy-entrepreneurs.md](policy-entrepreneurs.md) — Kingdon's streams, the think-tank pipeline, special advisers, commissions, and citizens' assemblies
+- [target-politicians.md](target-politicians.md) — the record-verified map of receptive and potentially receptive politicians (UK, Ireland, US, EU) and the ask-ladder for approaching each
 - [stepping-stones.md](stepping-stones.md) — the seven incremental adoptables, each valuable alone, each a ratchet
 
 The section's one-sentence version: parties will adopt this policy when it is the cheapest available answer to a problem they already have, and every file above is about lowering that price for a specific buyer.

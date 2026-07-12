@@ -28,6 +28,9 @@ Every file in this section is an application of that line. The tax is the fundin
 | [debate-toolkit.md](debate-toolkit.md) | What do you say, live, when the ten standard attacks land? |
 | [overton-strategies.md](overton-strategies.md) | How does a "radical" idea become discussable, then respectable, then policy? |
 | [inoculation.md](inoculation.md) | How do we pre-empt the attack playbook before it fires at full strength? |
+| [personal-conversations.md](personal-conversations.md) | How do you persuade one person at a time — your own child who forfeits an inheritance, and friends who think you're mad? |
+| [outreach-creators.md](outreach-creators.md) | Which named creators, podcasts, and journalists get briefed first — with what pitch, and what risks? |
+| [campaign-briefs.md](campaign-briefs.md) | What are the first executable social-media campaigns, each built on one verified fact? |
 
 ## Three operating principles
 
@@ -44,3 +47,6 @@ Every file in this section is an application of that line. The tax is the fundin
 - [debate-toolkit.md](debate-toolkit.md)
 - [overton-strategies.md](overton-strategies.md)
 - [inoculation.md](inoculation.md)
+- [personal-conversations.md](personal-conversations.md)
+- [outreach-creators.md](outreach-creators.md)
+- [campaign-briefs.md](campaign-briefs.md)

@@ -63,11 +63,11 @@ The premise comes first, then sixteen sections answer four questions in order: *
 |---|---|
 | [06-palatability/](06-palatability/) | The evidence base: polling, framing psychology, coalition arithmetic, campaign case studies |
 | [09-objections/](09-objections/) | The debate armoury: every "oh, but that won't work because…" with a concession, a one-line answer, and a link to the deep treatment |
-| [10-opposition/](10-opposition/) | Who will attack and how — the "death tax" playbook, media narratives, astroturf, legal challenges, post-passage sabotage — each with mitigations |
+| [10-opposition/](10-opposition/) | Who will attack and how — the "death tax" playbook, media narratives, astroturf, legal challenges, co-optation and half-measures, the extra-legal escalation ladder, post-passage sabotage — each with mitigations |
 | [11-geographies/](11-geographies/) | Which societies adopt first (UK ranked most likely; Ireland the operating analogue) and which are gated |
-| [12-political-adoption/](12-political-adoption/) | The self-interested case for each party family — including why conservatives should want this — wedges, policy entrepreneurs, stepping-stones |
-| [13-movement/](13-movement/) | Recruiting and organising: theory of change, messengers, organisational forms, funding, coalitions, precedent movements |
-| [14-communications/](14-communications/) | Proselytising operations: naming, narratives, audience matrix, channels, debate toolkit, Overton strategy, inoculation |
+| [12-political-adoption/](12-political-adoption/) | The self-interested case for each party family — including why conservatives should want this — wedges, policy entrepreneurs, stepping-stones, and a verified map of receptive politicians |
+| [13-movement/](13-movement/) | Recruiting and organising: theory of change, messengers, heir-defectors, organisational forms, funding, coalitions, precedent movements, the closing window, the founder's first year, the engagement ladder, and named outreach maps |
+| [14-communications/](14-communications/) | Proselytising operations: naming, narratives, audience matrix, channels, creator outreach, campaign briefs, personal conversations (your kids, your friends), debate toolkit, Overton strategy, inoculation |
 
 ## Where overlapping themes live
 
