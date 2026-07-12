@@ -43,7 +43,7 @@ Apply [organisational-forms.md](organisational-forms.md): the campaigning vehicl
 - Online incorporation: **£100** (raised from £50 on 1 February 2026); annual confirmation statement **£50** [1][2]. Same-day digital service £156 [2].
 - A guarantee company with suitable non-distribution objects can apply the "Limited"-name exemption, as Tax Justice UK did [5] — take advice at drafting, not a month-0 blocker.
 - The **charitable research arm comes later** (year 2+, per the build sequence): Charity Commission registration is free; a charitable company or trust needs £5,000 income (or an equivalent grant offer) to register, whereas a **CIO can register with no income at all** [3] — so the charitable arm is never gated on money, only on the governance-separation design in [organisational-forms.md](organisational-forms.md).
-- Election law is not a year-one constraint but should be known now: non-party campaigners must notify the Electoral Commission only above **£10,000** of regulated campaign spend in the regulated period [8]; year-one activity is research and recruitment, nowhere near it. Diarise a review if a general election is called.
+- Election law is not a year-one constraint but should be known now: non-party campaigners must notify the Electoral Commission only above **£10,000** of regulated campaign spend in the regulated period [8]; year-one activity is research and recruitment, nowhere near it — with one exception: if the paid-acquisition flywheel ([paid-acquisition.md](paid-acquisition.md)) is piloted, its spend crosses £10,000 quickly by design, so its staged-launch plan gates all £10k+ spend on prior EC registration. Diarise a review if a general election is called.
 
 Judgement on timing: incorporate when the first external money or contract needs a counterparty (likely early Q1, to sign the polling contract and open a bank account), not on day one. Total entity cost in year one: roughly £150 plus a few hundred pounds of legal review — negligible against the decisions it enables.
 
@@ -118,10 +118,11 @@ Mid-case, assuming the seed round part-funds the year; a no-funding year compres
 | Specialist legal (gift policy, election-law memo) | £4,000 |
 | *Travel, events, university seeding | £4,000 |
 | Comms/design freelance support | £8,000 |
+| Paid-acquisition pilot, stage 1 (classification + CPC test — [paid-acquisition.md](paid-acquisition.md) §6; optional, only if capture stack is live) | £2,000–£5,000 |
 | First hire, part-year (researcher-organiser, from ~month 9 if scaling) | £20,000–£30,000 |
 | Founder stipend (only if scale criteria met) | £0–£15,000 |
 | Contingency (~10%) | £6,000 |
-| **Total** | **~£60k–£105k** against a £100k–£250k seed target |
+| **Total** | **~£62k–£110k** against a £100k–£250k seed target |
 
 ## 7. Founder succession and the bus factor
 

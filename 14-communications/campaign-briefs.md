@@ -1,6 +1,6 @@
-# Campaign Briefs: Eight Concrete Social-Media Concepts
+# Campaign Briefs: Nine Concrete Social-Media Concepts
 
-**Executive summary.** [channels.md](channels.md) sets the channel strategy and [narratives.md](narratives.md) the story rules; this file turns them into eight executable campaign briefs, each built on one verified fact from this repository and one audience segment from [audience-messaging.md](audience-messaging.md). Every campaign concept below is creative judgement — untested until message-tested per [06-palatability/polling.md](../06-palatability/polling.md) — but every fact each concept carries is verified and sourced.
+**Executive summary.** [channels.md](channels.md) sets the channel strategy and [narratives.md](narratives.md) the story rules; this file turns them into nine executable campaign briefs, each built on one verified fact from this repository and one audience segment from [audience-messaging.md](audience-messaging.md). Every campaign concept below is creative judgement — untested until message-tested per [06-palatability/polling.md](../06-palatability/polling.md) — but every fact each concept carries is verified and sourced.
 
 ## Findings
 
@@ -104,6 +104,18 @@ Each brief: **Concept · Platform · Format · Hook · Audience** (segment per [
 - **Success metric:** Embed adoption by third-party sites and creators; recall of "the great wealth transfer" linked to the policy in tracking polls.
 - **Risk / inoculation:** Number discipline — UK and US figures must never be mixed in one asset ([README.md](README.md): one number per market); the counter's methodology page must be linked from every asset or the figure becomes attackable.
 
+## 9. "Trained On Us, Inherited By Them" — the AI-dividend campaign (creative judgement)
+
+- **Concept:** The Common Inheritance narrative ([narratives.md](narratives.md) §5 — Paine's ground-rent updated for AI) as executable video: models trained on humanity's publicly curated commons are concentrating returns to capital and minting the next dynasty class; the £50k endowment is the public's dividend on its own data, and the inheritance cap stops the first AI trillionaires becoming a permanent aristocracy. Episodes peg to AI-wealth news moments (funding rounds, rich-list updates) and land the Paine update in one line.
+- **Platform:** TikTok/Reels/Shorts organic + paid social ([13-movement/paid-acquisition.md](../13-movement/paid-acquisition.md)); YouTube pre-roll against AI-topic adjacency; podcast reads.
+- **Format:** 30–60s explainer over training-data visuals ("everything you ever posted openly"); a 4-minute YouTube version that carries the honest-limits caveat in full.
+- **Hook (judgement):** "The robots learned from all of us. The money went to a few of them. The inheritance goes to their kids — unless."
+- **Audience:** Tech and AI-exposed workers (the new segment in [narratives.md](narratives.md)'s selection table); young renters; broadcast/general public via the National Renewal register.
+- **Verified facts:** IMF SDN/2024/001 — capital-income and wealth inequality increase in *all* AI adoption scenarios [14] ([13-movement/closing-window.md](../13-movement/closing-window.md)); the 2023 crossover — new billionaires inherited more ($150.8bn) than the year's new self-made billionaires created ($140.7bn) (UBS) [5]; top-0.0001% fortunes compounding at 7.5%/yr since 1987 (Zucman) [15] ([01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)).
+- **Success metric:** Cost per completed view and donation conversion on the flywheel CTA against [13-movement/paid-acquisition.md](../13-movement/paid-acquisition.md) benchmarks; unaided association of "AI wealth" with the endowment in tracking polls.
+- **Risk / inoculation:** Two failure modes. (a) Anti-tech or anti-founder coding — the campaign is neither: today's AI wealth is founder wealth and the policy never taxes the founder, only the windfall's transfer to heirs; the villain-is-the-system rule ([narratives.md](narratives.md)) is load-bearing, no named founder is ever the villain, and the honest-limits caveat ships inside every long-form asset per [inoculation.md](inoculation.md). (b) "Training data isn't land" rebuttals — pre-empt in the pinned fact sheet with the Paine primary source ([05-history/paine-1797.md](../05-history/paine-1797.md)) and Acemoglu's capital-vs-labour-income finding [16], and keep the claim modest: a dividend on the commons, not a property claim on model weights.
+- **Flywheel CTA (standard end-card):** "£2–£200 keeps this ad running — it was paid for by people who saw one" ([13-movement/paid-acquisition.md](../13-movement/paid-acquisition.md)).
+
 ---
 
 ## The creator kit (standard hand-off for every brief)
@@ -119,6 +131,7 @@ Per [outreach-creators.md](outreach-creators.md), distribution is creator-led; e
 | B-roll / graphics pack | Counter embeds, incidence charts, threshold walk-throughs (theme-neutral, creator-brandable) | [02-proposal/revenue-model.md](../02-proposal/revenue-model.md) |
 | Objection deep-links | Stable URLs into the objection tree for pinned comments | [09-objections/](../09-objections/README.md) |
 | Disclosure note | Funding transparency statement for paid partnerships | [13-movement/funding.md](../13-movement/funding.md) |
+| Flywheel CTA card | Optional standard end-card for paid placements: "This ad was paid for by N people who saw one like it — £2–£200 keeps it running", with the email-capture link before the donation link | [13-movement/paid-acquisition.md](../13-movement/paid-acquisition.md) |
 
 ## Platform-evidence note
 
@@ -126,7 +139,7 @@ The video-first, creator-led weighting of these briefs rests on the repo's verif
 
 ## Open items
 
-- Message-test the eight hooks against segment panels before production spend ([06-palatability/polling.md](../06-palatability/polling.md)).
+- Message-test the nine hooks against segment panels before production spend ([06-palatability/polling.md](../06-palatability/polling.md)).
 - Commission the legal-review protocol for Dynasty Watch (brief 6) before any episode is scripted.
 - Build the calculator (brief 1) as the first artefact of the manifesto site's interactive layer ([channels.md](channels.md) open item on site architecture).
 - Begin heir-defector recruitment now (brief 7's binding constraint) via the pipeline in [13-movement/heir-defectors.md](../13-movement/heir-defectors.md) — recruited before the fight, not during ([10-opposition/attack-playbook.md](../10-opposition/attack-playbook.md)).
@@ -146,3 +159,6 @@ The video-first, creator-led weighting of these briefs rests on the repo's verif
 11. [Ofcom (July 2025) — "News consumption in the UK: 2025"](https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/adult-and-teen-news-consumption-survey/news-consumption-in-the-uk-2025-research-findings.pdf?v=400636)
 12. [Reuters Institute Digital News Report 2025 — executive summary](https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary)
 13. [Cerulli Associates (December 2024) — "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048"](https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048)
+14. [IMF — *Gen-AI: Artificial Intelligence and the Future of Work*, Staff Discussion Note SDN/2024/001 (January 2024): ~40% of global employment AI-exposed; capital-income and wealth inequality increase in all adoption scenarios](https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf)
+15. [Zucman, G. — *We Need to Tax Billionaires*, LSE lecture slides (20 May 2026): top-0.0001% real wealth growth 7.5%/yr 1987–2026](https://gabriel-zucman.eu/files/Zucman2026SlidesLSE.pdf)
+16. [Acemoglu, D. — "The Simple Macroeconomics of AI," NBER Working Paper 32487 (May 2024): AI "predicted to widen the gap between capital and labor income"](https://www.nber.org/papers/w32487)

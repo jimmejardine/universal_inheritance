@@ -21,6 +21,8 @@ This section is **organising doctrine**: recruitment, structure, money, alliance
 | [recruitment.md](recruitment.md) | Who joins, in what order, found where, converted how? |
 | [engagement-ladder.md](engagement-ladder.md) | What can one sympathiser actually do today — the supporter-side action menu, rung by rung? |
 | [digital-organising.md](digital-organising.md) | How is the movement built *online* — distributed organising, community platforms, creator-led models, and the online-to-offline conversion problem? |
+| [paid-acquisition.md](paid-acquisition.md) | Can demographic-targeted ads that ask viewers to fund more ads become a self-funding acquisition flywheel — and what do the benchmarks, platform rules, and election law actually permit? |
+| [gamification.md](gamification.md) | What citizen action makes politicians want to jump on the bandwagon — the pledge, the constituency dashboard, and the game mechanics for citizens and MPs? |
 | [messengers.md](messengers.md) | Whose face and voice carries the idea to each audience? |
 | [heir-defectors.md](heir-defectors.md) | How are young wealthy heirs converted into the movement's most powerful champions? |
 | [outreach-academics.md](outreach-academics.md) | Which named scholars to approach, on what published basis, with what specific ask? |
@@ -37,6 +39,8 @@ This section is **organising doctrine**: recruitment, structure, money, alliance
 - [recruitment.md](recruitment.md)
 - [engagement-ladder.md](engagement-ladder.md)
 - [digital-organising.md](digital-organising.md)
+- [paid-acquisition.md](paid-acquisition.md)
+- [gamification.md](gamification.md)
 - [messengers.md](messengers.md)
 - [heir-defectors.md](heir-defectors.md)
 - [outreach-academics.md](outreach-academics.md)

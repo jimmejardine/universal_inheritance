@@ -58,6 +58,10 @@ Farmers Weekly, regional dailies, and chamber-of-commerce newsletters are where 
 
 This repository's destination website ([root README](../README.md)) is not a persuasion channel; it is *proof of depth*. Its jobs: (1) give every creator, journalist, and debater a stable URL for every claim, objection, and carve-out — the linkable rebuttal to "they haven't thought this through"; (2) hold the full objection tree ([09-objections/](../09-objections/README.md)) so retail channels can stay simple; (3) convert conviction to action by routing to [13-movement/](../13-movement/README.md). Every artefact in every other channel ends with its URL.
 
+### Paid acquisition: the hand-off
+
+Paid reach (Google/Meta social-issue ads and non-platform paid inventory) is a channel this file deliberately does not own: the spend rules, the flywheel economics (ads that ask viewers to fund more ads), the regulatory gate (platform verification, EU cessation, Electoral Commission thresholds), and the staged pilot all live in [13-movement/paid-acquisition.md](../13-movement/paid-acquisition.md). This file's jurisdiction ends at what the paid creative *says* — the pitches ([pitches.md](pitches.md)), the segment matrix ([audience-messaging.md](audience-messaging.md)), and the inoculation-before-scale rule below, all of which bind paid ads exactly as they bind organic content.
+
 ## Sequencing
 
 Respectability channels (books, broadsheets, academia) must be seeded *before* mass channels scale — see the cascade in [overton-strategies.md](overton-strategies.md) — and inoculation content must precede any awareness spike ([inoculation.md](inoculation.md)). Virality without a reference layer and prebunked audiences is a gift to the opposition.

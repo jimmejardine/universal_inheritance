@@ -44,6 +44,22 @@ The US estate tax fell on roughly the wealthiest 2% of Americans during the repe
 - **Luntz (opposition's playbook):** test words, not arguments; pick the frame that moves the scene to your strongest image; repeat without variation for years. Provenance, for the record: the phrase itself was coined by lobbyist Jim Martin in 1993; Luntz's polling showed it provoked far stronger opposition than "estate tax" or "inheritance tax," put it into the Contract with America, and he advised Republicans to stage press conferences "at your local mortuary" [1]. We should assume his heirs will run the same discipline against us ([10-opposition/media-narratives.md](../10-opposition/media-narratives.md)).
 - **Lakoff (our correction):** frames are neurally sticky; repetition entrenches them regardless of truth value; you cannot win inside the opponent's frame, only replace it. Practical consequences: never repeat "death tax"; always answer a hostile question by restating the scene we own (the two 25-year-olds, [narratives.md](narratives.md)) before addressing the substance.
 
+## Replacing the death-tax lexicon: the 21st-century edition
+
+"Death tax" is now a museum piece with a documented provenance — coined by lobbyist Jim Martin in 1993, weaponised by Luntz's polling [1] — and a thirty-year-old mental scene (the funeral bill). The Lakoff doctrine above says it cannot be negated; this section adds the operational corollary: it must be **superseded**, not argued with. Three moves:
+
+1. **The affirmative name does the heavy lifting.** "Universal Inheritance" is already the project's retail name (table above); it is the affirmative half of the lexicon replacement — a rival noun with a rival scene (everyone inheriting) rather than a defence of a tax.
+2. **The replacement scene is the 21st-century edition.** The successor frame is the Common Inheritance narrative ([narratives.md](narratives.md) §5): Paine's ground-rent updated for the AI era — models trained on the public commons owe a dividend to everyone, paid as the endowment ([05-history/paine-1797.md](../05-history/paine-1797.md)). Where "death tax" relocates the scene to a funeral, the 21st-century edition relocates it to the training corpus: *they built it on everything we wrote; the dividend is ours.* A 1990s frame is beaten by an era-native one, not by a rebuttal.
+3. **Counter-terms for the loophole economy** — names for what the opposition defends, so that defending it costs them. All candidates below are creative judgement, **untested**, and must go through the P-series message-testing battery ([06-palatability/polling.md](../06-palatability/polling.md) §7) before any campaign use:
+
+| Candidate counter-term | Names | Scene it installs | Status |
+|---|---|---|---|
+| "the dynasty loophole" | Trust/gift structures that pass fortunes untaxed ([07-implementation/trusts-and-vehicles.md](../07-implementation/trusts-and-vehicles.md)) | A door held open for one family at a time | Untested |
+| "the aristocracy tax cut" | Repeal or threshold-gutting proposals | Parliament voting titles back into existence | Untested |
+| "the nepo economy" | The inherited-advantage economy at large | Nepo-baby discourse extended from casting to capital ([campaign-briefs.md](campaign-briefs.md) brief 4) | Untested; organic-adoption metric already defined |
+
+The rule that governs all three moves: counter-terms name **structures**, never persons — the villain discipline in [narratives.md](narratives.md) applies to vocabulary as much as to stories. And the 21st-century-edition rule restated for spokespeople: if an interviewer says "death tax," the answer opens with our scene (the two 25-year-olds, or the commons and its dividend), never with the words just spoken.
+
 ## Discipline rules
 
 1. The retail name and the number appear in the first sentence of every public artefact.
@@ -54,6 +70,7 @@ The US estate tax fell on roughly the wealthiest 2% of Americans during the repe
 ## Open items
 
 - Commission UK message-testing on "Universal Inheritance" vs "Citizen's Endowment" vs "British Birthright" (Tax Justice UK and Demos have adjacent polling — [06-palatability/polling.md](../06-palatability/polling.md)).
+- Add a counter-term battery ("dynasty loophole," "aristocracy tax cut," "nepo economy") to the P-series instruments ([06-palatability/polling.md](../06-palatability/polling.md) §7) — measure both persuasion lift and backfire among swing homeowners before any deployment.
 - US retail-name adaptation ("American Inheritance"? "Stakeholder grant" has Ackerman–Alstott lineage, [05-history/ackerman-alstott.md](../05-history/ackerman-alstott.md), but failed to travel — diagnose why before reusing).
 
 ## Sources

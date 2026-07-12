@@ -1,6 +1,6 @@
 # Narratives: The Stories That Carry the Argument
 
-**Executive summary.** Persuasion research consistently finds that a single identifiable person moves audiences where statistics do not; the campaign therefore needs a small, fixed repertoire of stories told with iron discipline. This file specifies the four canonical narratives, the evidence for story-first communication, and the non-negotiable rules every telling must obey.
+**Executive summary.** Persuasion research consistently finds that a single identifiable person moves audiences where statistics do not; the campaign therefore needs a small, fixed repertoire of stories told with iron discipline. This file specifies the five canonical narratives, the evidence for story-first communication, and the non-negotiable rules every telling must obey.
 
 ## Why stories, not statistics
 
@@ -8,7 +8,7 @@
 - **Narrative transportation.** Absorption in a story lowers counter-arguing; audiences evaluate a story by coherence, not by generating rebuttals as they do with claims (Green & Brock 2000) [2].
 - **The asymmetry we must correct.** The costs of inheritance concentration are statistical (mobility rates, Gini coefficients — [01-problem/](../01-problem/README.md)); the costs of the tax are anecdotal (the farm, the house). Statistics-versus-story is a fight statistics lose. The fix is not better charts; it is better stories on our side, with charts held in reserve as proof points ([channels.md](channels.md) — the repo website as the reference layer).
 
-## The four canonical narratives
+## The five canonical narratives
 
 ### 1. The Two 25-Year-Olds — the master narrative
 
@@ -34,6 +34,16 @@ You are 68. Your house clears the threshold untouched — nothing changes for yo
 
 *Function:* converts the demographic most hostile in polling ([06-palatability/polling.md](../06-palatability/polling.md)) by re-routing the bequest motive ([04-case-against/bequest-motive.md](../04-case-against/bequest-motive.md)) through the endowment.
 
+### 5. The Common Inheritance — the 21st-century edition (Paine, updated)
+
+This is the narrative built to *replace* the "death tax" frame rather than rebut it ([naming-and-language.md](naming-and-language.md)). In 1797 Thomas Paine argued that the earth's natural, uncultivated value was "the common property of the human race"; that every proprietor therefore owed the community a ground-rent for what he had enclosed; that the practical moment to collect it was the transmission of property at death; and that the proceeds were owed to every person as an endowment — "a compensation in part, for the loss of his or her natural inheritance" ([05-history/paine-1797.md](../05-history/paine-1797.md)) [3].
+
+The 21st-century edition: **the training corpus is the new land.** Every frontier AI model is built on humanity's publicly curated commons — the text, code, encyclopaedias, forums and open science that no company created and every generation contributed to — and the returns are flowing to the holders of AI capital while the same systems displace labour. The IMF's modelling finds that capital-income and wealth inequality increase in *every* AI adoption scenario it runs [4] ([13-movement/closing-window.md](../13-movement/closing-window.md)); Acemoglu's task-based assessment likewise predicts AI will "widen the gap between capital and labor income" [5]; 2025 alone minted more than fifty new AI billionaires, with AI startups taking roughly half of all global venture funding [6]; and once assembled, fortunes at the very top have compounded at 7.5% a year for four decades [7] ([01-problem/wealth-concentration.md](../01-problem/wealth-concentration.md)). Told as a story, not a statistic: the machines learned to write from every page we ever posted openly — so the rent on what they earn is owed to everyone's estate. The £50k endowment is that dividend. The £500k inheritance cap is what stops the first AI trillionaires from becoming the last permanent aristocracy.
+
+*Honest limits (judgement — stated inside every long-form telling, not hidden in a footnote).* Today's AI wealth is overwhelmingly **founder** wealth, and this project never taxes the founder: the levy falls only on the windfall's transfer to heirs ([02-proposal/mechanism.md](../02-proposal/mechanism.md)). The AI frame is therefore precisely about the *next* generation — the first trillionaire heirs — and about the commons-dividend logic, not about expropriating builders. Rule 3 below applies with full force: no named founder is ever the villain. The pitch *to* the builders themselves is [pitches.md](pitches.md) §9 ("the first trillionaire to endorse the settlement writes its terms"), and how their corporate vehicles outlive them is the subject of [16-second-order/corporations.md](../16-second-order/corporations.md).
+
+*Function:* supplies the rival frame that supersedes "death tax" — a new scene (the commons and its dividend) rather than a negation; bridges the campaign onto AI-era salience for audiences who would never click on fiscal policy; gives the endowment a 21st-century justification that is Paine's, verbatim, with the land swapped for the corpus.
+
 ## Narrative selection by audience
 
 | Audience | Lead narrative | Supporting narrative |
@@ -43,6 +53,7 @@ You are 68. Your house clears the threshold untouched — nothing changes for yo
 | Business owners, conservatives | Founder and the Heir | National Renewal |
 | Broadcast/general public | National Renewal | Two 25-Year-Olds |
 | Progressives (base) | Two 25-Year-Olds | — (already convinced; see [06-palatability/coalition.md](../06-palatability/coalition.md)) |
+| Tech and AI-exposed workers | Common Inheritance | Two 25-Year-Olds |
 
 ## The rules (non-negotiable)
 
@@ -61,3 +72,8 @@ You are 68. Your house clears the threshold untouched — nothing changes for yo
 
 1. [Small, D. A., Loewenstein, G., & Slovic, P. (2007). "Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims." *Organizational Behavior and Human Decision Processes*, 102(2), 143–153](https://www.sciencedirect.com/science/article/abs/pii/S0749597806000057)
 2. [Green, M. C., & Brock, T. C. (2000). "The Role of Transportation in the Persuasiveness of Public Narratives." *Journal of Personality and Social Psychology*, 79(5), 701–721](https://www.researchgate.net/publication/12248972_The_Role_of_Transportation_in_the_Persuasiveness_of_Public_Narratives)
+3. [Paine, T. (1797). *Agrarian Justice*. Full text at Wikisource](https://en.wikisource.org/wiki/Agrarian_Justice) — quotations verified verbatim in [05-history/paine-1797.md](../05-history/paine-1797.md).
+4. [IMF — *Gen-AI: Artificial Intelligence and the Future of Work*, Staff Discussion Note SDN/2024/001 (January 2024): ~40% of global employment AI-exposed; capital-income and wealth inequality increase in all adoption scenarios](https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf)
+5. [Acemoglu, D. — "The Simple Macroeconomics of AI," NBER Working Paper 32487 (May 2024; published in *Economic Policy*, 2025): modest aggregate TFP gains (≤0.66% over ten years) but "AI is predicted to widen the gap between capital and labor income"](https://www.nber.org/papers/w32487)
+6. [Forbes — "AI Minted More Than 50 New Billionaires In 2025" (25 December 2025): 50+ new AI billionaires; $200bn+ invested in the AI sector, ~50% of all global venture funding](https://www.forbes.com/sites/aliciapark/2025/12/25/ai-minted-more-than-50-new-billionaires-in-2025/)
+7. [Zucman, G. — *We Need to Tax Billionaires*, LSE lecture slides (20 May 2026): top-0.0001% real wealth growth 7.5%/yr 1987–2026 vs 2.5% global wealth per adult](https://gabriel-zucman.eu/files/Zucman2026SlidesLSE.pdf)
