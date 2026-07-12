@@ -38,7 +38,7 @@ The emigrating individual is treated, on the date of residence change, as having
 
 ## 5. Situs and residence nexus
 
-Two triggers, either sufficient: (a) the recipient is UK-resident, or (b) the transferred property is UK-situated. Situs rules follow established categories — real estate at its physical location; registered shares at the register's jurisdiction; bearer instruments where held; business assets where the permanent establishment sits; IP at the registering authority (with a substance override for artificial holding structures); crypto at the recipient's residence (the only workable rule given on-chain assets have no physical situs). Chains of holding companies are looked through using the OECD's Pillar Two substance tests [8].
+Two triggers, either sufficient: (a) the recipient is UK-resident, or (b) the transferred property is UK-situated. (For how the dual nexus and the 10-year tail operate across borders *inside the EU* — differing national thresholds, the *van Hilten*/*Mattner*/*Welte* case law, and credit ordering — see [`../08-capital-flight/international-coordination.md`](../08-capital-flight/international-coordination.md) §"Free movement and the mobile ledger".) Situs rules follow established categories — real estate at its physical location; registered shares at the register's jurisdiction; bearer instruments where held; business assets where the permanent establishment sits; IP at the registering authority (with a substance override for artificial holding structures); crypto at the recipient's residence (the only workable rule given on-chain assets have no physical situs). Chains of holding companies are looked through using the OECD's Pillar Two substance tests [8].
 
 ## 6. Valuation
 
