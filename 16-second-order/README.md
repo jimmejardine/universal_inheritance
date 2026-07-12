@@ -25,6 +25,7 @@ Three disciplines applied throughout:
 | Housing turnover; top-end prices | Turnover up; top prices down | Medium | Welcome | [asset-prices.md](asset-prices.md) |
 | Starter-home prices (endowment demand) | Up at entry level | Medium | Unwelcome — needs supply policy | [asset-prices.md](asset-prices.md), [endowment-effects.md](endowment-effects.md) |
 | Farmland prices | Down toward yield value | Medium–high | Welcome for working farmers | [asset-prices.md](asset-prices.md) |
+| Trophy assets change category (family seats → institutions, revenue models, consumption) | Conversion dominates; small waste tail | Medium–high | Welcome, with a conceded transition tail | [trophy-assets.md](trophy-assets.md) |
 | Equity ownership concentration | Dispersal | Medium | Welcome | [asset-prices.md](asset-prices.md) |
 | Heirs' labour supply (Carnegie effect reversed) | Up | High | Welcome | [heirs-and-work.md](heirs-and-work.md) |
 | Endowment recipients' labour supply | Slightly down / education up | Medium | Ambiguous, small | [endowment-effects.md](endowment-effects.md) |
@@ -39,6 +40,7 @@ Three disciplines applied throughout:
 | New elites form on new axes (managers, fame, state) | Certain | High | Unwelcome — monitor | [dynasties-and-power.md](dynasties-and-power.md) |
 | Wealth warehoused in corporate forms | Contained by look-through | Medium–high | Welcome if valuation holds | [corporations.md](corporations.md) |
 | Disguised inheritance via corporate salaries ("guild" risk) | Up at the margin, contained | Medium | Ambiguous — policed by income tax + arm's-length test | [corporations.md](corporations.md) |
+| Dispersed assets pass to foreign/institutional buyers | Marginal shift on a base already 58.8% overseas | Medium | Ambiguous — hereditary vs institutional concentration are different diseases; companion instruments named, not bundled | [foreign-ownership.md](foreign-ownership.md) |
 | Aggregate capital stock | Small change, sign uncertain | Low | Ambiguous | [macro.md](macro.md) |
 | Entrepreneurship rate | Disputed sign | Low | Ambiguous | [macro.md](macro.md) |
 | Fiscal room to cut other taxes | Up in steady state | Medium | Welcome | [macro.md](macro.md) |
@@ -54,11 +56,13 @@ Three disciplines applied throughout:
 - [charitable-giving.md](charitable-giving.md) — the near-certain giving surge; mega-philanthropy as bug and feature; guardrails and sunset rules
 - [savings-consumption.md](savings-consumption.md) — lifecycle behaviour: annuitisation, late-life consumption, the ambiguous aggregate savings effect
 - [asset-prices.md](asset-prices.md) — housing, equities, farmland, art: what estates selling into the market does to prices
+- [trophy-assets.md](trophy-assets.md) — the billionaire-only tier: chateaux, estates, megayachts, islands, jets, collections, clubs — where carrying costs force category change rather than repricing
 - [heirs-and-work.md](heirs-and-work.md) — the Carnegie effect literature and what the tax does to would-have-been heirs
 - [endowment-effects.md](endowment-effects.md) — what 25-year-olds actually do with £50k; the capitalisation problem taken seriously
 - [family-and-culture.md](family-and-culture.md) — eldercare, marriage, parenting, and the slow shift from "what your family has" to "what you do"
 - [dynasties-and-power.md](dynasties-and-power.md) — firm succession, media ownership, the donor class, and where new elites form
 - [corporations.md](corporations.md) — the immortal-owner problem: why corporate form shelters nothing, the steady-state equity split, and the guild scenario
+- [foreign-ownership.md](foreign-ownership.md) — does the tax sell the country to foreigners? The situs symmetry, the lifetime-gift attack, the immortal-foreign-holder gap, the companion-instrument shelf, and how foreign investment still arrives
 - [macro.md](macro.md) — capital stock, r vs g, entrepreneurship, labour supply, and the modelling agenda
 
 ## Cross-references

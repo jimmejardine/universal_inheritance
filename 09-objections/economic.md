@@ -58,6 +58,21 @@ On never starting — the objection's weakest leg:
 
 **Deep treatment:** [`../08-capital-flight/README.md`](../08-capital-flight/README.md) · [`../08-capital-flight/friction-and-anchors.md`](../08-capital-flight/friction-and-anchors.md) · [`../02-proposal/endowment.md`](../02-proposal/endowment.md)
 
+## "You'll just end up selling the country to foreigners"
+
+**Concede first.** Foreign corporations, funds, and sovereign wealth never die, so a tax triggered by inheritance genuinely cannot touch them — and estates dispersing assets will sometimes sell to foreign buyers. The immortal-institutional gap is real and is conceded, not patched, in [`../16-second-order/foreign-ownership.md`](../16-second-order/foreign-ownership.md).
+
+**One-line answer.** The situs rule taxes every gratuitous transfer of UK land, UK shares, and UK business assets *whoever and wherever the parties are* — a foreign dynasty can no more warehouse Britain across generations than a British one — and how much of the country institutions or states may own is a different question with its own, already-existing instruments.
+
+**Full answer.**
+
+- **Foreign families get no better deal than British ones.** Tax applies if the recipient is UK-resident *or* the asset is UK-situated ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) §5): a foreign heir inheriting UK land from a foreign donor pays like anyone else — as under [current IHT, where UK assets are chargeable regardless of the deceased's residence](https://www.gov.uk/inheritance-tax/when-someone-living-outside-the-uk-dies) [14]. Gifting early doesn't work either: unlike today's seven-year escape, the lifetime gift *is* the taxable event, secured by a statutory charge on the asset itself ([`../16-second-order/foreign-ownership.md`](../16-second-order/foreign-ownership.md) §1.1).
+- **The top of the market was sold long ago — to institutions.** Overseas investors already hold a record [58.8% of UK quoted shares (ONS, end-2024)](https://www.ons.gov.uk/economy/investmentspensionsandtrusts/bulletins/ownershipofukquotedshares/2024), against 11.6% for UK individuals [15]; dispersal sales change that structure at the margin, while the endowment (~890,000 newly capitalised 25-year-olds a year), the state fund's in-specie stakes, insurers, and foundations all stand on the other side of the trade.
+- **Foreign *institutional* ownership is a different disease with existing medicine, named not bundled:** the Register of Overseas Entities, ATED, the 2% non-resident SDLT surcharge, National Security and Investment Act screening — and peers from New Zealand to Switzerland restrict foreign purchase of homes and land outright while remaining open economies ([`../16-second-order/foreign-ownership.md`](../16-second-order/foreign-ownership.md) §3).
+- **Meanwhile the tax is the one wealth tax a productive foreign investor structurally cannot pay:** returns, remittances, and exit are never touched — "the owner never gets a bill" applies to them absolutely ([`../08-capital-flight/retention-attraction.md`](../08-capital-flight/retention-attraction.md)).
+
+**Deep treatment:** [`../16-second-order/foreign-ownership.md`](../16-second-order/foreign-ownership.md) · [`../16-second-order/corporations.md`](../16-second-order/corporations.md) · [`../08-capital-flight/inbound-wealth.md`](../08-capital-flight/inbound-wealth.md)
+
 ## "It's a tax on success"
 
 **Concede first.** The estates in scope exist because someone succeeded, usually through genuine effort and skill; nothing here disparages that success.
@@ -88,6 +103,8 @@ On never starting — the objection's weakest leg:
 11. [Moretti and Wilson, "Taxing Billionaires: Estate Taxes and the Geographical Location of the Ultra-Wealthy", *AEJ: Economic Policy* 15(2), 2023](https://www.aeaweb.org/articles?id=10.1257/pol.20200685)
 12. [Blanchflower and Oswald, "What Makes an Entrepreneur?", *Journal of Labor Economics* 16(1), 1998 (NBER w3252)](https://www.nber.org/papers/w3252)
 13. [IFS TaxLab, Combined marginal rates of income tax and National Insurance contributions, 2024–25](https://ifs.org.uk/taxlab/taxlab-data-item/combined-marginal-rates-income-tax-and-national-insurance-contributions)
+14. [GOV.UK, Inheritance Tax: when someone living outside the UK dies](https://www.gov.uk/inheritance-tax/when-someone-living-outside-the-uk-dies)
+15. [ONS, Ownership of UK quoted shares: 2024](https://www.ons.gov.uk/economy/investmentspensionsandtrusts/bulletins/ownershipofukquotedshares/2024)
 
 ## See also
 

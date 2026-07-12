@@ -58,6 +58,8 @@ One overarching caution: annual death-driven asset flows are small relative to t
 
 **Distribution.** Winners: buyers of formerly-prime stock (including conversion to flats), the state fund receiving in-specie property, boroughs gaining resident owners over lockbox vacancies. Losers: incumbent PCL owners, prime developers and agents, and — honestly — IHT receipts if prime values fall before the regime's first estates mature.
 
+Above the prime tier sits the billionaire-only stock — chateaux, country estates, private islands — whose carrying costs prevent repricing to any lower-wealth buyer: the deep treatment is [trophy-assets.md](trophy-assets.md).
+
 ## 4. Farmland — the underappreciated pro-farmer argument
 
 UK farmland persistently trades at prices yielding well under 2% on agricultural returns — average English farm rents of £174–253 per hectare (2024/25) against average GB sale prices of about £31,200 per hectare imply a gross rental yield below 1% [3] — because Agricultural Property Relief makes land a near-perfect IHT shelter: buy land, farm it nominally, pass it tax-free. APR demand from investors and estate-planners is capitalised into the price, which:
@@ -144,6 +146,8 @@ Current UK conditional-exemption and acceptance-in-lieu schemes let heritage ass
 **Bear case.** Concentrated exactly where the money is: dynastic-store demand (art as an unregistered, portable, opaque vault for generational value) is removed from a market that thrives on it; estate supply is compulsory and lumpy; and the same enforcement that closes valuation games removes the discretion that made the market's opacity valuable.
 
 **Net judgement (speculation — confidence: medium-high at the trophy/dynastic tier, low elsewhere).** Down hard at the tier priced as dynastic store; roughly flat at the passion-and-consumption tier; museums are the clearest winners of any entry in this file. Losers: trophy-asset holders, auction houses' estate-planning desks, the freeport economy.
+
+For what physically happens to grand collections — and to the rest of the billionaire-only asset tier (yachts, estates, islands, jets, clubs) — see [trophy-assets.md](trophy-assets.md), including the museum-capacity constraint on the acceptance-in-lieu channel.
 
 ## 9. Gilts and fixed income
 
