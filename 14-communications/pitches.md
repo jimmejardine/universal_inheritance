@@ -1,4 +1,4 @@
-# The Pitch Book: One Message, Twenty-Three Doors
+# The Pitch Book: One Message, Twenty-Three Doors — and a Dutch Edition
 
 **Executive summary.** The same policy, pitched to every audience that matters — from the 60-second lift ride to the family office that manages the fortunes it would end. Every pitch obeys the ordering doctrine (lead with the universal inheritance; the 100% rate is how it is paid for), uses only facts verified elsewhere in this repo, and closes on the ask appropriate to the listener. All scripts are suggested language (judgement) for message-testing per [`../06-palatability/polling.md`](../06-palatability/polling.md) §7 — none has been focus-grouped yet. Delivery note: the 5-minute scripts below are written tight (~3 minutes verbatim); the remaining time is for the listener's first objection, which each pitch anticipates in its final beat.
 
@@ -354,9 +354,65 @@ Ask: nothing. You'll oppose the framing forever. Just don't stand between the wo
 
 ---
 
+## Country editions — the Netherlands
+
+Every pitch above localises by swapping in the calibration table of [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) — one formula, local numbers; the euro figures below are the derived Dutch calibration (€700,000 per recipient / €50,000 at 25), never a currency conversion of the British ones. The Netherlands gets full editions first because it is the strongest structural candidate in continental Europe ([`../11-geographies/netherlands.md`](../11-geographies/netherlands.md)); like everything in this file, the scripts are suggested language (judgement), untested.
+
+### 24. The Dutch 1-minute pitch
+
+Here's the Dutch number nobody puts on a poster: children of homeowners inherit up to €463,000. Children of renters: €18,000. Same schools, same jobs — a twenty-five-fold difference in the start, decided at birth.
+
+So here's the proposal. Every child can receive up to €700,000 completely tax-free — today the Belastingdienst starts taxing your child at €26,230, so for every ordinary family this is a tax *cut*. And every citizen gets €50,000 at 25, whatever their parents own. A universal inheritance. Guaranteed.
+
+Paid for by one change: whatever a single person receives above €700,000 in a lifetime — the slice that founds dynasties — funds everyone else's start. Nothing taken from the living. Nothing from ordinary estates.
+
+And the Dutch already agree: the CPB found in 2026 that only about twelve per cent want the erfbelasting abolished — and a majority wants *large* inheritances taxed more heavily. The country agrees with this policy. Nobody has told it yet.
+
+€50,000 at 25, for every kid in the country. Want the long version?
+
+*Grounding: [`../11-geographies/netherlands.md`](../11-geographies/netherlands.md) (€463k/€18k, child exemption, CPB 2026 attitudes study); [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) (Dutch calibration).*
+
+### 25. The Dutch 2-minute pitch
+
+Start with the number: €973 billion is on its way from Dutch parents to the next generation — the largest wealth transfer in the country's history. Where it lands is already decided: homeowners' children inherit up to €463,000; renters' children, €18,000.
+
+The Netherlands has faced this exact question before, and answered it. The jubelton — a €100,000 tax-free gift for a child's house — was abolished on 1 January 2024, because the official evaluation found it inflated house prices and widened wealth inequality between young people with and without rich parents. That was the right logic. This proposal is that logic, completed.
+
+So: every child can receive up to €700,000 tax-free — a tax cut for every ordinary family, since today a child's exemption runs out at €26,230. Every citizen gets €50,000 at 25, whoever their parents are. Funded entirely by what any one person receives above €700,000 in a lifetime.
+
+And notice: the machinery already exists. The erfbelasting is levied on the *recipient* — the right base, the one other countries would have to invent. It already trusts large exemptions: a partner receives €828,035 tax-free. The reform isn't a new tax; it's arithmetic on an old one — raise the child's line to €700,000, take everything above.
+
+Two objections, quickly. "My house is my pension" — not here: €1.6 trillion in collective pensions means Dutch retirement doesn't depend on bequests. The courts? Box 3 fell because it taxed fictional returns on wealth people still held; this taxes actual receipts, once, above a generous line — transfer-based, not holdings-based, by design.
+
+The CPB says only 12% want this tax gone, and a majority wants big inheritances taxed more. The votes exist. The offer just hasn't been made.
+
+*Grounding: [`../11-geographies/netherlands.md`](../11-geographies/netherlands.md) (€973bn, jubelton, exemptions, pensions, box 3); [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) (Dutch calibration); [`../06-palatability/framing.md`](../06-palatability/framing.md).*
+
+### 26. Five minutes — the Dutch middle-class parent
+
+You own a home, you've saved, and everything you do is for your kids — so let's do your actual numbers.
+
+The average Dutch house now sells for about €490,000. Under this proposal each of your children can receive up to €700,000 from you completely tax-free — house plus savings, fully absorbed, per child. Compare today: a child's exemption is €26,230, and then the Belastingdienst takes 10 to 20 per cent of everything above it — on a €300,000 share, roughly €40,000 of tax that this proposal abolishes. For your family this is not a threat. It's a tax cut.
+
+Then the new part: every one of your children gets €50,000 at 25. Guaranteed, by right — not dependent on the housing market, on how long you live, on whether the equity survives. And so does everyone else's child, which is the part I want to talk you into, because it's the part that protects yours.
+
+Here's the market your kids actually face. The country is short 410,000 homes. At every viewing, your child bids against buyers whose deposit was transferred, not saved. We ran that experiment — the jubelton: years of €100,000 tax-free gifts for the children of wealthy parents. The state's own evaluation found it pushed up prices and split the young generation into those with rich parents and those without, and we abolished it in 2024 on exactly that finding. But abolishing one subsidy didn't end the arms race: €973 billion is coming down the pipe, and homeowners' children catch up to €463,000 of it while renters' children catch €18,000. Your kids aren't competing against effort; they're competing against other people's inheritances. You can't out-save that. You can outlaw the top of it.
+
+Your own retirement? That's the quiet Dutch advantage: €1.6 trillion in collective pensions means your pension is a pension. Your house doesn't have to be one, and your bequest isn't your children's safety net the way it is in Britain — the floor under your kids stops being your house price and becomes a birthright.
+
+And you already agree, statistically. The CPB found this year that only 12 per cent of us want the erfbelasting abolished, and a majority wants large inheritances taxed *more* — with preferred rates rising with the size of the inheritance, across every age and wealth group. The Dutch position *is* this proposal. It just hasn't been on a ballot.
+
+The honest bit: if your estate really will pass more than €700,000 to a single child, this costs your family something at the very top. Everything below the line stays, the €50,000 per child is added — and the excess funds every child's start, including your grandchildren's.
+
+My ask is one conversation. Tonight, run your family's numbers — €700,000 per child, €50,000 each at 25 — and tell one other parent what you found. Then check the CPB study; don't take my word for it.
+
+*Grounding: [`../11-geographies/netherlands.md`](../11-geographies/netherlands.md) (housing shortage, jubelton, €973bn, pensions, CPB 2026, 2026 rates/exemptions); [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) (Dutch calibration, house-price input); [personal-conversations.md](personal-conversations.md).*
+
+---
+
 ## Usage notes
 
 - **Every quantitative claim above is verified in the grounding files**; if a pitch is adapted, re-check the number against its owner file first — the pitch book inherits corrections from the repo, not the reverse.
-- **The ordering doctrine is load-bearing in all 23**: the offer before the tax, always. The one deliberate exception is the billionaire/trillionaire tier, where the listener knows they're the payer and respect requires saying so in the first minute.
+- **The ordering doctrine is load-bearing in all 26**: the offer before the tax, always. The one deliberate exception is the billionaire/trillionaire tier, where the listener knows they're the payer and respect requires saying so in the first minute.
 - **Message-testing**: these are drafts for the P-series instruments in [`../06-palatability/polling.md`](../06-palatability/polling.md) §7; the working-class, middle-class, and parent pitches should be tested first (largest blocs, per [`../06-palatability/coalition.md`](../06-palatability/coalition.md)).
 - **The Marx plank-3 reference** (pitches 22–23) is to the ten measures of the *Communist Manifesto* (1848), a public-domain commonplace; use it only with audiences who will recognise it as engagement rather than endorsement — the inoculation rules in [inoculation.md](inoculation.md) apply.

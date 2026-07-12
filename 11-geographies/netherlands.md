@@ -38,7 +38,7 @@ The Dutch *erfbelasting* is levied on what each **acquirer** receives, not on th
 |---|---|---|
 | Tax base | Each recipient's acquisition | Same, cumulated lifetime |
 | Partner exemption | €828,035 | Spouse/partner transfers outside the ledger ([`../02-proposal/thresholds.md`](../02-proposal/thresholds.md)) |
-| Child exemption | €26,230 (grandchild the same; disabled child €78,671) | Single £500k-equivalent lifetime threshold, relationship-blind |
+| Child exemption | €26,230 (grandchild the same; disabled child €78,671) | Single €700,000 lifetime threshold (Dutch calibration — see "The Dutch calibration" below), relationship-blind |
 | Rates | Partner/child 10% to €158,669, 20% above; grandchild 18/36%; others 30/40% | 0% below threshold, 100% above |
 | Gift integration | Same rate/exemption family; annual exempt gifts €6,908 (parent→child) / €2,769 (others); one-off €33,129 for children 18–40 [3] | Unified lifetime ledger |
 | Anti-deathbed rule | Gifts within 180 days of death counted back into the estate [4] | Ledger makes timing irrelevant |
@@ -76,6 +76,8 @@ Dutch collective pension funds managed roughly €1.6–1.8tn across 2025–26 (
 | Academic economics | Bas Jacobs and the ESB literature argue Dutch taxation of wealth, capital income and inheritances is anomalously light and that pragmatic reform, including of inheritances, is urgent [25]; the CPB supplies the distributional evidence [8][17] | Elite-consensus groundwork of the Mirrlees/Blanchard–Tirole type |
 | Public philosophy | Ingrid Robeyns (Chair in Ethics of Institutions, Utrecht; KNAW member since 2018) is limitarianism's author and a fixture of the national debate: Dutch trade books *Rijkdom* (Prometheus, 2019, covered by Het Financieele Dagblad and De Standaard) and the Dutch edition of *Limitarianism*; contributor to Trouw's philosophy pages; co-founder of the philosophy blog *Bij Nader Inzien*; her team's "riches line" study measured where Dutch respondents place extreme wealth (consensus at €1–3m) [34][35] | The strongest national intellectual asset for the normative case — and the author of this proposal's peer-reviewed mechanism twin (her cap is deliberately far tighter); engagement doctrine in [`../13-movement/outreach-academics.md`](../13-movement/outreach-academics.md) |
 
+Ready-to-deliver Dutch pitch scripts — a 1-minute, a 2-minute, and a 5-minute for the decisive middle-class-parent audience — are in [`../14-communications/pitches.md`](../14-communications/pitches.md) ("Country editions — the Netherlands").
+
 ## The case for resistance: four brakes, honestly weighed
 
 ### 1. Coalition arithmetic after the populist convulsion
@@ -102,8 +104,22 @@ The Netherlands has a long *Nederbelgen* tradition of wealthy emigration to Belg
 
 1. **Convergence step (available to any coalition):** unify the kinship tiers into a single per-recipient exemption (D66's stated policy [22]) and convert per-acquisition exemptions into a lifetime cumulated ledger on the Irish model — sold as simplification plus equal treatment of the childless and unmarried.
 2. **Relief step:** enact the CPB's own recommendation — replace the BOR exemption with a generous payment/deferral arrangement [8][10].
-3. **Endowment step:** hypothecate the proceeds to a *startkapitaal* at 25 for the housing-locked generation — the jubelton's fairness logic run in reverse: instead of tax-free €100k for children of the wealthy, a funded €50k-equivalent for everyone [5][6][13].
+3. **Endowment step:** hypothecate the proceeds to a *startkapitaal* at 25 for the housing-locked generation — the jubelton's fairness logic run in reverse: instead of tax-free €100k for children of the wealthy, a funded **€50,000 for every 25-year-old** [5][6][13] — sized in the calibration below.
 4. **Escalation and coordination:** rate rises above the lifetime threshold inside an EU/OECD floor, where the Netherlands' natural role — high-capacity, treaty-abiding, egalitarian-institutional — is early over-complier, per the EU-floor scenario in [README.md](README.md).
+
+### The Dutch calibration: €700,000 / €50,000
+
+Derived by the localisation doctrine of [`../02-proposal/thresholds.md`](../02-proposal/thresholds.md) ("One formula, local numbers"): the architecture is imported unchanged; the two numbers are re-derived from Dutch anchors, never converted from the UK's.
+
+| Input (verified July 2026) | Value | Source |
+|---|---|---|
+| Mean transaction price, existing owner-occupied homes (March 2026) | €494,605 (+5.0% y/y); no median published in the CBS/Kadaster series | [36] |
+| Modal gross income 2026 (CPB-set) | €48,000/yr | [37] |
+| Residents aged 25 (1 January 2026) | 247,187 | [38] |
+| Total estate flow, latest published years | €28.5bn (2022, definitive); €33.6bn (2023, provisional); median estate €45,200 (2023) | [39] |
+
+- **Threshold €700,000.** Earnings anchor 12–15× modal income → €576k–720k; dwelling anchor 1.5–2× the mean home → €740k–990k (median-adjusted, roughly €630k–880k, since means run above medians in housing). The bands intersect around €700,000 — ≈14.6× modal income, ≈1.4× the mean home, comfortably above the €463,000 upper-end homeowner bequest [19] and just below the €828,035 partner exemption the statute already protects [2]. A flat €500,000 (the UK figure transplanted) would sit at barely 1.0× the average Dutch home — exactly the middle-class capture the indexation rule exists to prevent.
+- **Endowment €50,000** ≈ 1.04× modal income (the UK's £50k is ~1.4× median earnings; the US $60k ~1.0×). Cohort cost by the method of [`../02-proposal/arithmetic.md`](../02-proposal/arithmetic.md): 247,187 × €50,000 ≈ **€12.4bn/yr**, roughly a third of the €33.6bn annual estate flow before gifts [38][39] — like the UK ledger, honestly not self-funding at launch, and no Dutch distribution of receipts above €700k has been published (CBS acquisition data cover only taxed estates), so the above-threshold base *requires CBS microdata*.
 
 ## What to watch
 
@@ -163,3 +179,7 @@ The Netherlands is a strong **second-wave adopter**, not a first mover. Everythi
 33. [VVD — Verkiezingsprogramma Tweede Kamerverkiezingen 2025, "Keuzes voor een nieuwe tijd" (PDF)](https://www.vvd.nl/wp-content/uploads/2025/07/Verkiezingsprogramma-TK-VVD-2025.pdf)
 34. [Universiteit Utrecht — Prof. dr. Ingrid Robeyns, staff profile (chair, KNAW 2018, public philosophy)](https://www.uu.nl/staff/IAMRobeyns); [Universiteit Utrecht — "Ingrid Robeyns in de media met nieuwe boek 'Rijkdom'" (2019)](https://www.uu.nl/in-de-media/ingrid-robeyns-in-de-media-met-nieuwe-boek-rijkdom); [Bibliotheek.nl — *Rijkdom: hoeveel ongelijkheid is nog verantwoord?* (Prometheus, 2019)](https://www.bibliotheek.nl/catalogus/titel.420846182.html/rijkdom/)
 35. [Robeyns, I., Buskens, V., van de Rijt, A., Vergeldt, N. & van der Lippe, T. (2021). "How Rich is Too Rich? Measuring the Riches Line." *Social Indicators Research* 154, pp. 115–143 (open access)](https://link.springer.com/article/10.1007/s11205-020-02552-z)
+36. [CBS (2026). "Koopwoningen in maart 5 procent duurder dan jaar eerder"](https://www.cbs.nl/nl-nl/nieuws/2026/17/koopwoningen-in-maart-5-procent-duurder-dan-jaar-eerder) — gemiddelde transactieprijs bestaande koopwoning €494,605 (March 2026); the CBS/Kadaster series publishes means, not medians.
+37. [Raisin (2026). "Wat is het modaal inkomen in Nederland in 2026?"](https://www.raisin.com/nl-nl/economie/modaal-inkomen/) — modal income 2026: €48,000 gross/yr, set annually by the CPB (secondary source reporting the CPB figure; consistent across multiple Dutch outlets).
+38. [CBS StatLine — Bevolking op 1 januari en gemiddeld; geslacht, leeftijd en regio (table 03759ned)](https://opendata.cbs.nl/#/CBS/nl/dataset/03759ned/table) — 247,187 residents aged 25 on 1 January 2026 (retrieved via the CBS OData API, July 2026).
+39. [CBS StatLine — Nalatenschappen; nagelaten vermogen, kenmerken (table 84242NED)](https://opendata.cbs.nl/#/CBS/nl/dataset/84242NED/table) — total estate value: €28.5bn (2022, definitive), €33.6bn (2023, provisional); median estate €45,200 (2023).
