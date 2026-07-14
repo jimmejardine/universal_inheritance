@@ -31,6 +31,8 @@ The recipient owes the tax where **either** (a) the recipient is UK resident or 
 
 **Exit tax.** On ceasing UK/US tax residence, the individual is treated as receiving at market value all previously-received assets still held, to the extent they exceed residual threshold headroom; any 100% charge crystallises at that date. A **10-year residency tail** preserves liability on gifts and bequests made to or by the individual within ten years of departure, irrespective of subsequent residence.
 
+**The unit of escape is the dynasty, not the donor.** A donor-based estate tax is escaped by one person moving once; under this design, escape requires the donor to clear the exit charge and tail, *every* intended recipient to be durably non-resident (each clearing their own 10-year returning-heir look-back — [`../08-capital-flight/exit-tax-design.md`](../08-capital-flight/exit-tax-design.md)), and every charged asset to be re-sitused — simultaneously, and sustained for decades. The escape decision is therefore never an individual's; it is a whole bloodline's, and all flight analysis in this repo prices the family system, not the founder ([`../08-capital-flight/confiscatory-stakes.md`](../08-capital-flight/confiscatory-stakes.md) §5).
+
 ## 4. Tax point and valuation
 
 The tax point is the **date of receipt** (for gifts and trust distributions), the **date of death** (for bequests), or the **date of the deemed event** (exit, trust termination). Valuation is market value at the tax point:

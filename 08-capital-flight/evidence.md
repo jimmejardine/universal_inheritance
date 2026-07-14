@@ -52,9 +52,11 @@ The literature is often cited as one undifferentiated "tax migration" finding. I
 | Top income tax (superstars) | Footballers, foreign high earners, inventors [5][6][11] | High (~1 for foreigners) | Short; career-portable | Not this proposal's population |
 | Annual wealth tax | Swedish, Norwegian, Spanish episodes [8][9][10] | Moderate; concentrated in ultra-rich; high intra-nationally | Ongoing annual bill creates standing exit incentive | Exit tax + valuation design; or avoid annual wealth taxes entirely |
 | State estate tax (intra-federal) | Forbes 400 billionaires [7] | Large (35% of local billionaires leave), rising with age | Decades; zero-anchor-cost moves | National-level assignment (adopted by this proposal) |
-| National death/receipts tax (international) | No direct estimate exists | Bounded above by the intra-federal case; likely far lower | Decades — but tails and situs rules consume the horizon | Dual nexus, 10-year tail, recipient basis |
+| National death/receipts tax (international) | No direct estimate exists | Bounded above by the intra-federal case *at literature stakes* — a bound on the propensity to move against a c. 16–20% state levy, not on behaviour at a 100% rate (see below) | Decades — but tails and situs rules consume the horizon | Dual nexus, 10-year tail, recipient basis |
 
 Two readings of this table matter. *For the objection*: the bottom-right cell is empirically empty — no one has measured international migration response to a recipient-based national inheritance tax, so confident claims of mass flight are extrapolation, not evidence. *Against complacency*: the same emptiness means the proposal cannot claim measured safety either; it claims bounded risk, with the bounds set by the intra-federal worst case and the design levers listed.
+
+One qualification to the "bounded above" cell, added with [`../04-case-against/model-risk.md`](../04-case-against/model-risk.md) §1 in view: the intra-federal case bounds the *propensity to relocate* under literature-stakes incentives (top US state estate-tax rates run around 16–20%). At a 100% rate above threshold the incentive is not a point further along that curve — for a billionaire family the prize is the fortune itself — so the intra-federal bound governs the friction side of the comparison (international moves cost more than interstate ones), not the incentive side. For the billionaire and £100m tiers this section therefore abandons elasticity extrapolation altogether and substitutes a decision-model planning posture — assume attempted escape, and price what attempting achieves — developed in [confiscatory-stakes.md](confiscatory-stakes.md).
 
 ## 6. Why death-tax elasticities differ — and what that implies
 
@@ -66,6 +68,7 @@ Death taxes allow decades of planning, so measured responsiveness among those wh
 - Reproduce Moretti & Wilson's (2023) state-level cost-benefit calculation under a national tax with a 10-year tail.
 - Advani et al.'s updated estimates on the 2025 UK non-dom abolition as data emerges — the nearest live experiment to this proposal's residence rules.
 - No study measures *recipient-side* migration elasticity (heirs moving to escape an inheritance receipts tax); Ireland's CAT is the natural setting.
+- No evidence of any kind exists on family-level escape *completion rates* at confiscatory stakes — the parameter the [confiscatory-stakes.md](confiscatory-stakes.md) scenarios span with 30/50/70% planning assumptions; the first adopter's administrative data will be the first measurement.
 
 ## Sources
 

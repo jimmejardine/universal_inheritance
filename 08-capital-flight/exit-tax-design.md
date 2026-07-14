@@ -48,7 +48,7 @@ The four layers are deliberately redundant: defeating the tax requires defeating
 | Immediate vs deferred collection | Assess at exit, collect at realisation | The only CJEU-safe form; also fairer and politically defensible |
 | Who is charged | Departing individual (deemed receipt) *and* any future resident recipient | Redundancy; the §2801 lesson is that recipient-side permanence is the real lock |
 | Threshold interaction | Exit charge counts against the same £500k/$750k lifetime ledger | One ledger, no separate regime to arbitrage ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md)) |
-| Return rule | Liability recomputed on resumed residence; tail years don't reset the ledger | Prevents "wash emigration" — leave, receive, return |
+| Return rule (returning-heir look-back) | **10 years**: receipts received while non-resident are recomputed onto the recipient's lifetime ledger if UK residence resumes within 10 years of the receipt; tail years don't reset the ledger | Design decision, pinned in [confiscatory-stakes.md](confiscatory-stakes.md) §5a: symmetry with the 10-year exit tail and the 10-year inbound on-ramp ([inbound-wealth.md](inbound-wealth.md)) — one number, four uses; long enough that "receive offshore, wait, return" costs a genuine decade of exile per receipt; short enough to survive proportionality review on the tail's footing. Prevents "wash emigration" — leave, receive, return |
 
 ## Worked timeline: emigration under the proposed rules
 
@@ -59,7 +59,7 @@ The four layers are deliberately redundant: defeating the tax requires defeating
 | 4 | Donor gifts foreign portfolio assets to a UK-resident child | Fully taxable receipt by the child (recipient basis — the donor's location is irrelevant) |
 | 7 | Donor dies (inside the tail) | Estate transfers treated as if donor UK-resident: worldwide receipts by any recipient in charge |
 | 12 | Alternative: donor dies after clearing the tail; heirs still UK-resident | UK-resident heirs taxable on all receipts anyway (residence limb); only non-resident heirs receiving non-UK-situs assets escape |
-| 12+ | A "non-resident" heir returns to the UK within their own look-back | Prior receipts recomputed onto their ledger; wash emigration fails |
+| 12+ | A "non-resident" heir returns to the UK within 10 years of a receipt (the returning-heir look-back) | Prior receipts recomputed onto their ledger; wash emigration fails ([confiscatory-stakes.md](confiscatory-stakes.md) §5a) |
 
 The timeline makes the §2801 point concrete: the donor's emigration, even when fully successful, changes almost nothing unless the *recipients* also emigrate durably — and the recipients are the generation with careers, partners, and children rooting them in place ([friction-and-anchors.md](friction-and-anchors.md)).
 

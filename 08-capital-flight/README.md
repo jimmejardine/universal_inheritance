@@ -19,6 +19,7 @@
 | File | Question answered | Bottom line |
 |---|---|---|
 | [evidence.md](evidence.md) | What does the migration literature actually find? | Low average elasticity; high for the young-mobile-famous; billionaire estate-tax responsiveness is the strongest counter-finding and is engaged directly |
+| [confiscatory-stakes.md](confiscatory-stakes.md) | What happens at the top tier, where the literature's stakes don't apply and the prize is the fortune itself? | Assume most billionaire-tier families *attempt* structured escape; escape = sell Britain, take paper, remove the people; the escaped paper mostly sits inside the coalition's reach; tiered flight scenarios propagated into the arithmetic |
 | [exit-options.md](exit-options.md) | Where would they actually go? | A short list of small, expensive, capacity-constrained jurisdictions, each with real non-tax costs |
 | [friction-and-anchors.md](friction-and-anchors.md) | What keeps wealthy people in place? | Businesses, family, status ecosystems, ageing — and the immovability of situs assets |
 | [exit-tax-design.md](exit-tax-design.md) | How do you tax those who do leave? | Deemed-disposal charges, trailing liability, the [US §877A/§2801](https://www.irs.gov/individuals/international-taxpayers/expatriation-tax) model, the proposal's 10-year tail — all within ECHR/EU-law constraints |
@@ -59,7 +60,7 @@ This section treats capital flight the way an engineer treats friction: a real f
 
 ## Reading order
 
-For the reader who wants the argument in sequence: [evidence.md](evidence.md) establishes what is actually known; [exit-options.md](exit-options.md) and [friction-and-anchors.md](friction-and-anchors.md) explain why the known elasticities are low (demand for exit is weaker, and supply of exit smaller, than assumed); [exit-tax-design.md](exit-tax-design.md) and [retention-attraction.md](retention-attraction.md) give the policy response for the residual (the stick and the carrot respectively); [international-coordination.md](international-coordination.md) and [game-theory.md](game-theory.md) lift the analysis from one jurisdiction to the system. For debate preparation, the claims-and-counters table above plus [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md) are the fast path.
+For the reader who wants the argument in sequence: [evidence.md](evidence.md) establishes what is actually known; [confiscatory-stakes.md](confiscatory-stakes.md) states where the known stops applying — the top tier, where the design assumes attempted escape and prices what attempting achieves; [exit-options.md](exit-options.md) and [friction-and-anchors.md](friction-and-anchors.md) explain why the known elasticities are low (demand for exit is weaker, and supply of exit smaller, than assumed); [exit-tax-design.md](exit-tax-design.md) and [retention-attraction.md](retention-attraction.md) give the policy response for the residual (the stick and the carrot respectively); [international-coordination.md](international-coordination.md) and [game-theory.md](game-theory.md) lift the analysis from one jurisdiction to the system. For debate preparation, the claims-and-counters table above plus [`../14-communications/debate-toolkit.md`](../14-communications/debate-toolkit.md) are the fast path.
 
 ## What would falsify the synthesis
 
@@ -68,6 +69,7 @@ This section's conclusion is contingent, not axiomatic. It would need revision i
 ## Files in this section
 
 - [evidence.md](evidence.md) — the empirical migration literature, honestly summarised
+- [confiscatory-stakes.md](confiscatory-stakes.md) — the billionaire's escape decision at 100% stakes; the escape-asset inventory; the absorption constraint; tiered flight scenarios
 - [exit-options.md](exit-options.md) — destination jurisdictions and their real costs
 - [friction-and-anchors.md](friction-and-anchors.md) — what anchors the wealthy; the situs asymmetry
 - [exit-tax-design.md](exit-tax-design.md) — deemed disposal, trailing tails, §877A/§2801, legal constraints
