@@ -1,6 +1,6 @@
 # 01 — The Problem: Ailments of Late-Stage Capitalism
 
-**Executive summary.** Six overlapping pathologies — runaway wealth concentration, declining social mobility, a generational housing crisis, political capture by concentrated wealth, the erosion of meritocratic legitimacy, and the rise of a rentier economy — share a common structural root: the compounding, tax-thin transmission of capital stocks across generations. Five deepening chapters extend the diagnosis in time (the coming transfer wave), in mechanism (declining dynamism, the asset-price feedback loop), and in consequence (elite overproduction, social fatalism); together the eleven files constitute the empirical case that inheritance, not income, is the highest-leverage point of intervention.
+**Executive summary.** Six overlapping pathologies — runaway wealth concentration, declining social mobility, a generational housing crisis, political capture by concentrated wealth, the erosion of meritocratic legitimacy, and the rise of a rentier economy — share a common structural root: the compounding, tax-thin transmission of capital stocks across generations. Six deepening chapters extend the diagnosis in time (the coming transfer wave), in mechanism (declining dynamism, the asset-price feedback loop), in consequence (elite overproduction, social fatalism), and in scholarship (the wealth-and-democratic-stability literature survey); together the twelve files constitute the empirical case that inheritance, not income, is the highest-leverage point of intervention.
 
 ## The six ailments
 
@@ -15,7 +15,7 @@
 
 ## Deepening chapters
 
-Five further chapters sharpen the diagnosis along axes the six ailments imply but do not isolate:
+Six further chapters sharpen the diagnosis along axes the six ailments imply but do not isolate:
 
 | # | Chapter | Headline finding |
 |---|---|---|
@@ -24,6 +24,7 @@ Five further chapters sharpen the diagnosis along axes the six ailments imply bu
 | 9 | [Elite overproduction](elite-overproduction.md) | Turchin's instability scissors — surplus credentialed aspirants plus popular immiseration — with inheritance concentration feeding both blades |
 | 10 | [The asset-price feedback loop](asset-price-feedback.md) | Cheap money → owner windfalls → inherited deposits → higher prices; each cycle makes inheritance more determinative — transfer taxation is macro-financial policy, not just fiscal |
 | 11 | [Social trust and fatalism](social-trust-and-fatalism.md) | When effort demonstrably cannot bridge the asset gap, the young rationally disinvest from the long game — the manifesto's emotional core |
+| 12 | [Wealth and democratic stability](wealth-and-democratic-stability.md) | Literature survey: unequal responsiveness (Gilens–Page and its critics at full strength), the theory of oligarchy (Winters), inequality and democratic breakdown (Houle, Scheidel), and why capitalism itself needs constrained power (North–Weingast, AJR, Rajan–Zingales) |
 
 ## The argument that threads them
 
@@ -64,3 +65,4 @@ This is why every serious historical proposal — Paine, Mill, Carnegie, Rooseve
 - [elite-overproduction.md](elite-overproduction.md)
 - [asset-price-feedback.md](asset-price-feedback.md)
 - [social-trust-and-fatalism.md](social-trust-and-fatalism.md)
+- [wealth-and-democratic-stability.md](wealth-and-democratic-stability.md)

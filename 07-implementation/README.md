@@ -11,6 +11,7 @@
 | Human-capital inheritance | Untaxable | — | [human-capital.md](human-capital.md) | Not taxed, by design; the tax severs the *compounding* stage instead |
 | Nepotism and network transfers | Mostly untaxable; cash forms reachable | Medium | [nepotism-and-networks.md](nepotism-and-networks.md) | Arm's-length pay tests, undervalue claw-back; concede the pure-favour remainder |
 | Gift timing and undeclared transfers | High (the 7-year-rule failure) | High | [gifts-and-timing.md](gifts-and-timing.md) | Lifetime cumulation kills timing games; third-party reporting mesh catches the undeclared |
+| Debt, collateral and "buy, borrow, die" | High (the marquee avoidance story) | Medium–high | [buy-borrow-die.md](buy-borrow-die.md) | No step-up + debt netting (connected debts non-deductible) + imputed interest + lender feeds; die-with-zero borrowing welcomed |
 | Trusts, foundations, wrappers | Fatal if open | High | [trusts-and-vehicles.md](trusts-and-vehicles.md) | Distribution charge + 10-year deemed charge + attribution; all from existing precedents |
 | Crypto and novel assets | Medium, growing | Medium | [digital-and-novel-assets.md](digital-and-novel-assets.md) | CARF/chain-analysis detection; suspended-receipt rule for "lost keys" |
 | Administrative burden and cost | Medium | High | [administration.md](administration.md) | Central Register on existing rails; probate gate; tiered returns; ~1–2% cost-to-yield target (vs ~0.7% for current UK IHT) |
@@ -43,6 +44,7 @@ Why the tax is still worth having: both untaxable channels are **self-limiting**
 - [human-capital.md](human-capital.md) — the inheritance you cannot tax, and why the tax works anyway
 - [nepotism-and-networks.md](nepotism-and-networks.md) — disguised transfers through jobs and firms; the untaxable favour economy
 - [gifts-and-timing.md](gifts-and-timing.md) — lifetime cumulation mechanics; the death of timing games; traceability
+- [buy-borrow-die.md](buy-borrow-die.md) — debt as the last untaxed transfer: why BBD collapses under a receipts base, the debt-netting rule, guarantee imputation, the startup variants, lender feeds
 - [trusts-and-vehicles.md](trusts-and-vehicles.md) — look-through and attribution for trusts, foundations, FICs, wrappers
 - [digital-and-novel-assets.md](digital-and-novel-assets.md) — crypto, IP, brands, unvested equity; the seed-phrase problem
 - [administration.md](administration.md) — the Central Register, probate integration, staffing, cost, privacy, appeals
@@ -71,7 +73,7 @@ The per-file research-gaps lists aggregate to four modelling tasks that should b
 
 ## Reading order
 
-For the sceptic asking "can this possibly work?": [administration.md](administration.md) → [valuation.md](valuation.md) → [enforcement.md](enforcement.md). For the philosopher asking "where does the line go?": [boundary-problem.md](boundary-problem.md) → [human-capital.md](human-capital.md) → [nepotism-and-networks.md](nepotism-and-networks.md). For the campaigner preparing for attack anecdotes: [hard-cases.md](hard-cases.md) first, then [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md).
+For the sceptic asking "can this possibly work?": [administration.md](administration.md) → [valuation.md](valuation.md) → [enforcement.md](enforcement.md) → [buy-borrow-die.md](buy-borrow-die.md) (the marquee avoidance strategy, answered end to end). For the philosopher asking "where does the line go?": [boundary-problem.md](boundary-problem.md) → [human-capital.md](human-capital.md) → [nepotism-and-networks.md](nepotism-and-networks.md). For the campaigner preparing for attack anecdotes: [hard-cases.md](hard-cases.md) first, then [`../10-opposition/attack-playbook.md`](../10-opposition/attack-playbook.md).
 
 ## The section's one-sentence summary
 

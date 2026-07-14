@@ -52,6 +52,9 @@ Self-declaration is the front door; the mesh catches what walks past it. Feeds i
 | Probate registries | Full estate inventories and beneficiary schedules | Estate Information Return ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) §5) |
 | Insurers | Death-benefit payouts and policy assignments | Existing chargeable-event reporting |
 | Trustees | Distributions and beneficiary changes | Trust Registration Service (UK) / Form 3520 (US) — see [trusts-and-vehicles.md](trusts-and-vehicles.md) |
+| Regulated lenders (banks, brokers, private banks) | Securities-backed and other collateralised credit lines, pledges of assets, and guarantees where a connected person is borrower, guarantor, or collateral provider, above a floor | SBLOC/margin operational records; US proxy pledging disclosure (Reg S-K Item 403(b)) as the disclosure precedent — see [buy-borrow-die.md](buy-borrow-die.md) §5 |
+
+One honesty note: the lender-feed row is the only genuinely *new* reporting obligation in the table — the records exist inside lenders today, but no jurisdiction currently collects them for transfer-tax purposes; the case for building it, and the proportionality limits on it, are made in [buy-borrow-die.md](buy-borrow-die.md) §5.
 
 Matching declared receipts against the mesh is a data-reconciliation problem of the kind HMRC's Connect system already performs across income-tax data [10]. Undeclared gifts surface as mismatches; mismatches feed the risk-scored audit queue in [enforcement.md](enforcement.md). Offshore and wrapper-based evasion of the mesh is treated in [trusts-and-vehicles.md](trusts-and-vehicles.md) and, for emigration, deferred entirely to [`../08-capital-flight/`](../08-capital-flight/).
 

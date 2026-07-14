@@ -23,7 +23,7 @@ Paying an heir £300k for a £60k job converts inheritance into deductible salar
 - The excess of pay over the arm's-length band for the role is recharacterised as a **taxable receipt** on the heir's lifetime ledger ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) §1), not merely disallowed as a corporate deduction.
 - Precedents already operating: US IRC §162 "reasonable compensation" case law polices exactly this line for closely held C-corps (developed through cases like *Exacto Spring*'s independent-investor test) [2]; HMRC applies a wholly-and-exclusively test to family wages (*Copeman v William Flood & Sons* is the classic authority on excessive family remuneration) [3]. The proposal reuses this machinery, changing only the destination of the recharacterised amount: the ledger, not just the corporation-tax computation.
 
-The same test covers the adjacent dodge of employing heirs **pre-death at inflated salaries** to run down the estate: recharacterised excess is a gift when paid, cumulating under [gifts-and-timing.md](gifts-and-timing.md).
+The same test covers the adjacent dodge of employing heirs **pre-death at inflated salaries** to run down the estate: recharacterised excess is a gift when paid, cumulating under [gifts-and-timing.md](gifts-and-timing.md). The equity twin of the inflated salary — cheap options, founder-class shares, or carried interest granted to heirs — is owned by [buy-borrow-die.md](buy-borrow-die.md) §3: receipt at grant, appraisal discipline, ERS-feed detection.
 
 ## 2. Succession at undervalue and the client-book handover
 

@@ -12,7 +12,7 @@
 
 ## 1. The mechanisms that convert wealth into blocking power
 
-The general evidence that concentrated wealth buys policy outcomes is set out in [../01-problem/political-capture.md](../01-problem/political-capture.md) (Gilens–Page, Citizens United, lobbying, revolving door). This section is narrower: it tracks the specific channels through which the very top of the distribution can *block* transfer taxation, with a trajectory assessment for each.
+The general evidence that concentrated wealth buys policy outcomes is set out in [../01-problem/political-capture.md](../01-problem/political-capture.md) (Gilens–Page, Citizens United, lobbying, revolving door), and the full scholarly literature — responsiveness empirics, oligarchy theory, and the democratic-survival evidence — is surveyed in [../01-problem/wealth-and-democratic-stability.md](../01-problem/wealth-and-democratic-stability.md). This section is narrower: it tracks the specific channels through which the very top of the distribution can *block* transfer taxation, with a trajectory assessment for each.
 
 | # | Mechanism | Strongest verified evidence | Trajectory |
 |---|---|---|---|

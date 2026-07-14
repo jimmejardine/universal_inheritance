@@ -7,6 +7,7 @@
 - **Lifetime aggregation, no death-reset.** Every inter-vivos gift counts against the recipient's £500k / $750k cumulative threshold; the clock does not restart at the donor's death [1].
 - **Trust look-through.** Distributions from discretionary or bare trusts are taxable receipts by the identified beneficiary on distribution; entry charges apply on settlement of reserved assets; the proposed rule is structurally cleaner than the UK Relevant Property Regime's 10-year anniversary charge [3] and the US GST tax [4].
 - **Wrapper look-through.** Life-insurance, deferred-annuity and investment-bond payouts on death are taxable receipts. No special regime; no offshore-bond carve-out [2].
+- **Debt is not a deduction machine.** Receipts net only genuine, arm's-length, actually-discharged debts; connected-party and contrived debts are non-deductible, and loan-and-derivative structures that deliver an asset's economics without moving title are receipts of the value delivered (§3A).
 - **Exit tax as deemed receipt.** On change of tax residence, a departing individual is treated as having received unrealised accrual they would otherwise dodge, modelled on US IRC §877A [5] but applied on the recipient axis.
 - **10-year residency tail.** Former residents remain within charge for 10 years on UK-situated property and on worldwide receipts if long-term resident or UK-domiciled, extending the logic of UK deemed-domicile [6].
 - **Two-fold nexus.** Tax applies if the recipient is UK-resident *or* the property is UK-situated; dual-trigger eliminates the "resident of nowhere" gap.
@@ -24,6 +25,16 @@ The rule is one line: *distributions from a trust to an identifiable individual 
 ## 3. Life insurance, annuities, investment bonds
 
 Full look-through. A payout to an individual on death is a taxable receipt; a payout to a trust is taxed under section 2 on eventual distribution. No "written in trust" special regime (the standard UK IHT avoidance route for life policies [13]); no offshore investment-bond carve-out; no §101(a) income-tax-free treatment passed through as a transfer-tax exemption [10]. Insurance continues to perform its genuine function — liquidity for the estate to pay the tax — but ceases to be a wrapper that converts a taxable transfer into a tax-free one.
+
+## 3A. Loans, debt and derivatives
+
+Debt is the last relabelling frontier at scale: the US "buy, borrow, die" strategy shows how borrowing against appreciated assets substitutes for realisation in life and how debt deductions shrink the taxable estate at death. Three rules close it on the receipts axis:
+
+- **Soft loans are annually imputed.** Interest-free and below-market loans from connected persons generate an annual deemed receipt of the shortfall at the official rate, with a 10-year dormancy presumption of forgiveness — the machinery in [`../07-implementation/boundary-problem.md`](../07-implementation/boundary-problem.md) §3.
+- **Receipts net only genuine debt.** A receipt is measured net of arm's-length, actually-discharged liabilities; connected-party and contrived debts are non-deductible, and their repayment is the creditor's receipt where the creditor sits inside the dynasty's perimeter ([`mechanism.md`](mechanism.md) §1, on the FA 2013 / IHTA ss.162A/175A template).
+- **Substance over form for economic transfers without title.** A derivative, loan package, or guarantee structure that delivers an asset's economics to another person — a prepaid variable forward paying into an heir's account, a parent-collateralised credit line — is a taxable receipt of the value delivered or the benefit conferred, however documented. This is the rule [`../08-capital-flight/composition-and-concealment.md`](../08-capital-flight/composition-and-concealment.md) §3 relies on for derivative monetisation.
+
+The deep treatment — the classic strategy verified at scale, the startup variants, the mutation catalogue, the lender-feed detection architecture, and the honest enforcement costs — is [`../07-implementation/buy-borrow-die.md`](../07-implementation/buy-borrow-die.md).
 
 ## 4. Exit tax and residence rules
 
