@@ -9,7 +9,7 @@ This file covers the *narratives and their staging*; the underlying arguments (b
 | Narrative | Image | Emotional register | Structural answer in this proposal |
 |---|---|---|---|
 | The farm auction | Machinery under the hammer, third-generation farmer in tears, land sold to an investment fund | Loss of heritage; the state destroying what it should protect | Farm deferral and instalment design in [../02-proposal/carveouts.md](../02-proposal/carveouts.md); no forced sale is ever required to meet the liability |
-| The weeping widow | Recently bereaved spouse "forced from the family home" | Grief exploited; cruelty at the worst moment | Full spousal exemption and residence provisions — [../02-proposal/carveouts.md](../02-proposal/carveouts.md); recipient basis means the estate itself is never the taxpayer — [../02-proposal/mechanism.md](../02-proposal/mechanism.md) |
+| The weeping widow | Recently bereaved spouse "forced from the family home" | Grief exploited; cruelty at the worst moment | Spouses are never taxed — every widow and widower, every time — plus residence provisions — [../02-proposal/carveouts.md](../02-proposal/carveouts.md); recipient basis means the estate itself is never the taxpayer — [../02-proposal/mechanism.md](../02-proposal/mechanism.md) |
 | The liquidated small business | Loyal employees losing jobs because the founder died | The tax destroys jobs and enterprise | 30-year deferral at gilts + 1%, optional state equity stake — [../02-proposal/carveouts.md](../02-proposal/carveouts.md); rebuttal detail in [../09-objections/family.md](../09-objections/family.md) and [../04-case-against/family-business.md](../04-case-against/family-business.md) |
 | "They're coming for your house" | Ordinary suburban semi with a tax demand on the doormat | Fear of scope creep to the median voter | £500k *per-recipient* threshold, indexed to max(wages, median house prices) — [../02-proposal/thresholds.md](../02-proposal/thresholds.md); slippery-slope rebuttal in [../09-objections/slippery-slope.md](../09-objections/slippery-slope.md) |
 
@@ -55,7 +55,7 @@ The 2024 APR episode reached stage 4 within roughly a month — the Budget was d
 - **Threshold elision.** Coverage will systematically omit the £500k per-recipient threshold and the endowment, describing "a 100% inheritance tax" unqualified. Broadcast interviews will open with "so the state takes everything when you die?"
 - **Anticipatory grief stories.** Before enactment, expect "families rushing to gift ahead of the deadline" stories, which both dramatise the tax and advertise avoidance — interaction with [../15-transition/announcement-effects.md](../15-transition/announcement-effects.md).
 - **Partisan synthesis.** "Labour coming for your home" (UK) / "Democrats' death tax on the American dream" (US) — fusing the tax with pre-existing partisan fear narratives. See [../12-political-adoption/wedge-dynamics.md](../12-political-adoption/wedge-dynamics.md).
-- **Manufactured ambiguity.** Where the design forecloses a narrative (spousal exemption kills the widow story), expect deliberate conflation with the *current* inheritance-tax regime's genuine flaws, imported wholesale as if they applied to the proposal.
+- **Manufactured ambiguity.** Where the design forecloses a narrative (spouses never taxed kills the widow story), expect deliberate conflation with the *current* inheritance-tax regime's genuine flaws, imported wholesale as if they applied to the proposal.
 
 ## What still needs doing
 

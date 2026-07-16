@@ -22,7 +22,7 @@ The literature-based files ([evidence.md](evidence.md), [friction-and-anchors.md
 |---|---|---|
 | Core: 3 children × £500k headroom | £1.5m | [`../02-proposal/mechanism.md`](../02-proposal/mechanism.md) |
 | Dispersal headroom: children's spouses, grandchildren, wider family (illustrative: 10–20 further recipients) | ~£5–10m | Per-recipient ledgers; the intended behaviour ([`../02-proposal/arithmetic.md`](../02-proposal/arithmetic.md) §2.2) |
-| Surviving spouse | Unlimited, deferred to second death | Spousal exemption ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1) |
+| Surviving spouse | Unlimited, deferred until exit from the marriage chain | Spousal relief — deferral with a tracked charge ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1) |
 | Lifetime family consumption — houses lived in, education, travel, the whole texture of a rich upbringing | Unlimited | Consumption is not a receipt; only transfers cumulate |
 | Charity and a named family foundation, with governance roles and the family name on it | Unlimited (£990m+ if chosen) | Charitable exemption; control and prestige survive ([`../16-second-order/charitable-giving.md`](../16-second-order/charitable-giving.md)) |
 | The founder's own life | Untouched | No tax in life on the fortune; "the owner never gets a bill" ([retention-attraction.md](retention-attraction.md)) |

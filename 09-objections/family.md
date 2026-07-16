@@ -1,6 +1,6 @@
 # Family Objections
 
-**Executive summary.** Family objections are the most politically dangerous in the set — historical inheritance taxes died at televised farm auctions and over ordinary family homes, not in economics seminars — so every answer here must lead with the concrete numbers that show ordinary families untouched. The design facts: £500,000 tax-free *per recipient*, spouses wholly exempt, homes below the threshold pass intact, and operating farms and businesses are never force-sold.
+**Executive summary.** Family objections are the most politically dangerous in the set — historical inheritance taxes died at televised farm auctions and over ordinary family homes, not in economics seminars — so every answer here must lead with the concrete numbers that show ordinary families untouched. The design facts: £500,000 tax-free *per recipient*, spouses never taxed — every widow and widower, every time — homes below the threshold pass intact, and operating farms and businesses are never force-sold.
 
 Rules of engagement: concede, one-liner, full answer. Master table in [README.md](README.md). The steelmanned hard case is [`../04-case-against/family-business.md`](../04-case-against/family-business.md).
 
@@ -77,6 +77,7 @@ Whoever this tax is for, it is not the owner of a three-bed semi.
 **Full answer.**
 
 - **The recipient basis changes the emotional structure of the tax.** Estate taxes intrude into the administration of the dead person's affairs; a receipts tax is simply an entry on the *recipient's* lifetime ledger, handled alongside probate paperwork that already exists ([`../02-proposal/mechanism.md`](../02-proposal/mechanism.md), [`../07-implementation/administration.md`](../07-implementation/administration.md)).
+- **The widow or widower never pays — ever, in any marriage, and is never questioned about it.** Spousal transfers are untaxed for every widow and widower, every time; the deferred charge only ever lands when wealth finally leaves the marriage to a non-spouse ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1). That promise is engineered to survive even deliberate abuse — dynastic alliance marriages and reciprocal "widow swaps" are priced out by ledger arithmetic alone, without the state ever questioning a marriage (same section).
 - **Payment schedules are designed never to force a grieving family's hand** — deferral for illiquid assets, long filing windows, no bailiff-at-the-funeral scenarios.
 - **The money at issue exists in the recipient's hands *only because of* the death** — the tax takes a share of a windfall, not a toll on a loss.
 - Handling this framing battle — including why the proposal should never be defended under the opponent's name for it — is the business of [`../14-communications/naming-and-language.md`](../14-communications/naming-and-language.md).

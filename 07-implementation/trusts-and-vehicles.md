@@ -9,6 +9,7 @@ The design commitments are set in [`../02-proposal/avoidance.md`](../02-proposal
 | Vehicle | The move | Counter-rule |
 |---|---|---|
 | Discretionary trust | No beneficiary has an entitlement until trustees decide; wealth waits out the tax | Distribution charge + deemed periodic charge (§1) |
+| Spousal life-interest trust (IPDI-style) | Claim spousal relief for a life interest while pointing the remainder at the children | Deferral continues for the life tenant only; remaindermen charged at full value (§1b) |
 | Liechtenstein/Panama-style foundation | Orphan entity, no owner at all; "beneficiaries" informally serviced | Recharacterisation as trust-equivalent; attribution (§2) |
 | Family investment company (FIC) | Parents keep voting shares, children hold growth shares; value accrues without a "transfer" | Value-shift rules + attribution (§3) |
 | Life-insurance / offshore bond wrapper | Transfer dressed as policy proceeds | Full look-through, per [`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) §3 |
@@ -23,6 +24,16 @@ Two charges, together closing both exits:
 **(b) Deemed periodic charge on undistributed wealth.** The distribution charge alone invites the *warehouse strategy*: leave wealth in trust for eighty years, compound tax-free, distribute to remote descendants each of whom has fresh threshold headroom. The counter is a periodic charge on wealth that stays warehoused: every **10 years**, undistributed trust capital attributable to the beneficiary class is deemed received pro-rata by the identifiable beneficiaries (or, where the class is open, charged at the trust level at the top rate on a statutory fraction). The UK has charged discretionary-trust capital periodically since capital transfer tax in 1975, with the 10-yearly anniversary charge in its modern relevant-property form dating from 1982 — proof that periodic charging of discretionary trusts is administrable — but at a maximum of 6% per decade it functions as a modest rent for dynastic warehousing rather than a deterrent [2]. The proposal keeps the machinery (valuation dates, proportionate exit charges between anniversaries) and raises the consequence: deemed receipts consume real ledger headroom, and above headroom they are taxed at 100%. The 80-year perpetuity backstop ([`../02-proposal/avoidance.md`](../02-proposal/avoidance.md) §2) terminates anything that tries to wait even the periodic charge out.
 
 **Interaction rule.** Amounts charged periodically create a credit against the later distribution charge for the same value — no double taxation, no gap.
+
+## 1b. Spousal life interests: the IPDI structure
+
+The classic will structure — a life interest in the estate to the surviving spouse, remainder to the children — must be mapped onto the deferred spousal relief of [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1, or it becomes the cheap way to claim spousal treatment for wealth that is really pointed at the next generation. The rules:
+
+- **The life interest is spousal relief in trust form: the deferral continues.** The survivor's entitlement to income and enjoyment of the settled property is untaxed and consumes no threshold, exactly as an outright spousal transfer would be. The trust corpus (above the standard threshold) carries the deferred-charge tag at trust level; while it supports a spouse's life interest — in this marriage or, if the fund is resettled on a later spouse, a subsequent one — nothing crystallises. The survivor's benefits are never distributions within §1(a); the periodic charge of §1(b) does not run against corpus supporting a qualifying spousal life interest. One boundary, owned by [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1 ("The widow swap, priced honestly."): *qualifying* means the first marital hop — a life interest for the accumulator's own widow or widower; from the second hop onward (tagged corpus supporting a spouse who was never the accumulator's partner), the §1(b) periodic charge runs against the corpus exactly as it would in a discretionary trust — no arbitrage between settling on trustees and settling by marriage.
+- **The remaindermen's receipt is charged in full when the life interest ends.** At the life tenant's death (or earlier termination in the remaindermen's favour), the remaindermen receive the corpus at its full market value on that date, posting to each remainderman's ledger as an ordinary receipt against their lifetime threshold. The remainder interest cannot be pre-received at a discounted actuarial value: the receipt is valued when possession falls in, not when the interest is drafted.
+- **Contrast with current UK law.** Under the IPDI regime (IHTA 1984 s.49A, inserted by FA 2006), a spousal life interest created by will takes the s.18 spouse exemption on first death and the settled property is taxed as part of the *life tenant's* estate on second death [9] — deferral to the survivor's death, estate-side. This design keeps that deferral logic but moves the charge to the recipient axis: the tax lands on the remaindermen's ledgers at full value, with no nil-rate-band reset, no estate-side reliefs interposed, and no re-opening of the gap between "spousal exemption" and "who ultimately takes."
+
+Cross-reference: the deferred-charge tag, the exit-crystallisation rule, and the serial-marriage analysis are owned by [`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1.
 
 ## 2. Foundations and ownerless entities
 
@@ -52,6 +63,7 @@ An offshore trustee outside the jurisdiction cannot be compelled directly; the r
 | US grantor-trust rules §§671–679 [4] | Statutory attribution through entities to the person with dominion works, and is drafted law, not doctrine | Attribution axis flipped from income to receipts |
 | CFC rules (UK Part 9A TIOPA; US subpart F/GILTI) [7] | Anti-deferral through controlled entities survives decades of planning pressure | Same anti-deferral logic aimed at gratuitous value, not business profits |
 | Ireland CAT trust appointments [1] | Recipient-side taxation of trust distributions is a solved problem | Adds the periodic charge Ireland lacks |
+| UK IPDI — IHTA 1984 s.49A [9] | Spousal life interests already carry the spouse exemption with tax deferred to the life tenant's death | Charge moves to the remaindermen's ledgers at full value, integrated with the deferred spousal tag ([`../02-proposal/carveouts.md`](../02-proposal/carveouts.md) §1) |
 
 The rhetorical point for [`../09-objections/avoidance.md`](../09-objections/avoidance.md): every rule in this file is an existing rule somewhere, doing this job now. The proposal's novelty is assembling them on one axis, not inventing machinery.
 
@@ -84,3 +96,4 @@ The design intent is visible in the trustee's option set: every path leads to we
 6. [TCGA 1992 ss.29–34 — value shifting](https://www.legislation.gov.uk/ukpga/1992/12/section/29)
 7. [TIOPA 2010 Part 9A — UK CFC rules](https://www.legislation.gov.uk/ukpga/2010/8/part/9A); [US subpart F, IRC §§951–965](https://www.law.cornell.edu/uscode/text/26/951)
 8. [UK Trust Registration Service (MLR 2017 as amended)](https://www.gov.uk/guidance/register-a-trust-as-a-trustee); [IRS Forms 3520 / 3520-A — foreign trust reporting](https://www.irs.gov/forms-pubs/about-form-3520)
+9. [HMRC — IHTM16061: Finance Act 2006 interests in possession, including the immediate post-death interest (IHTA 1984 s.49A)](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm16061)

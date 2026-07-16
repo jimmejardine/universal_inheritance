@@ -8,7 +8,7 @@ This specification defines a 100% marginal inheritance and gift tax as a **recip
 - Threshold of **£500,000 / $750,000 per recipient, lifetime**, indexed annually to the greater of national wage growth or national median house-price growth.
 - Marginal rate: **0% below threshold, 100% above** — a sharp kink, not a schedule.
 - Liability rests on the **recipient** where resident, or on the **asset** where UK-/US-situated (dual nexus) [2].
-- **Spousal and registered-charitable** transfers are fully exempt and do not consume threshold.
+- **Spousal transfers** are never taxed and never consume threshold, but operate as *deferral with a tracked charge*, not clean exemption: above-threshold relieved corpus carries a deferred-charge tag that crystallises on any exit from the marriage chain to a non-spouse (§2; [carveouts.md](carveouts.md) §1). **Registered-charitable** transfers are fully exempt and do not consume threshold.
 - **Family businesses and farms**: liability stands but payment is deferrable up to 30 years at gilts/Treasuries + 1%, with a state-equity option for illiquid operating assets.
 - **Exit tax**: deemed receipt at market value on loss of tax residence, with a **10-year residency tail** to defeat pre-emptive expatriation.
 - Proceeds are hypothecated to a **universal citizen's endowment** of £50,000 at 25 / $60,000, wage-indexed.
@@ -24,6 +24,8 @@ A **taxable receipt** is any of: (i) a bequest under will or intestacy; (ii) an 
 ## 2. Lifetime cumulation
 
 Each recipient has a **single running total** of taxable receipts, net of exemptions, maintained for life on the Central Register. Each new receipt is added to the running total; the portion (if any) that crosses the threshold is taxed at 100%; the portion below is taxed at 0% but reduces remaining headroom. The threshold is a **stock**, not an annual allowance — once exhausted, it is gone. This is the Mirrlees "Lifetime Capital Receipts Tax" structure [1] and mirrors the CAT Group-A aggregation rule in Ireland [2].
+
+**Spousal receipts are deferred, not exempt.** A transfer from a spouse or civil partner is a *deferred receipt*: it is never taxed and consumes no threshold in the survivor's hands, but relieved corpus above the standard threshold posts to the survivor's ledger with a **deferred-charge tag** (amount and source line). The tag does not tax the survivor — it travels. When tagged wealth exits the marriage chain to any non-spouse — bequest, gift, trust distribution, debt forgiveness, in this marriage or any later one — the exit is an ordinary taxable receipt against the ultimate recipient's threshold under §1, and the tag supplies the Register's audit trail. The tag also records *whose* accumulation the corpus was: from the second spousal hop onward — corpus held by a spouse who was never the accumulator's partner — the tagged corpus additionally attracts the trust-equivalent periodic charge (chain-hop parity; [carveouts.md](carveouts.md) §1). Design rationale, precedents (US QDOT, IRC §2056A; UK IPDI, IHTA 1984 s.49A), and the serial-remarriage analysis: [carveouts.md](carveouts.md) §1.
 
 **Transitional credit.** Receipts before the regime's commencement date are disregarded except that recipients may elect to declare pre-regime receipts within a 24-month window; declared amounts are applied against the threshold at **50% weight** (a transitional discount compensating for prior IHT/estate-tax exposure and valuation uncertainty). Undeclared pre-regime receipts remain outside the base but cannot be re-gifted onward without crystallising.
 

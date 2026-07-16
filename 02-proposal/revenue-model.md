@@ -40,7 +40,7 @@ then the taxable slice is plausibly **30–40% of the aggregate flow**, i.e. **�
 | Step | Effect on base (illustrative) | Note |
 |---|---|---|
 | Pre-behavioural gross base | £31–42bn/yr | §2 |
-| Spousal exemption timing | defers a large minority of the base ~10 yrs | Tax arrives at second death, not first; a delay, not a loss ([`carveouts.md`](carveouts.md) §1) |
+| Spousal relief timing | defers a large minority of the base ~10 yrs | Tax arrives when wealth exits the marriage chain — at second death, or later where the survivor remarries and the deferred-charge tag rides along; a delay, not a loss ([`carveouts.md`](carveouts.md) §1) |
 | Distributive estate planning | −15–40% of gross | Splitting estates across more recipients is the *intended* response ([`thresholds.md`](thresholds.md) §7) |
 | Charitable diversion | −15–30% of gross | Flow-weighted from the [`../16-second-order/charitable-giving.md`](../16-second-order/charitable-giving.md) §2 scenarios; see sensitivity §4 |
 | Lifetime consumption response | −5–10% of gross | [`../16-second-order/savings-consumption.md`](../16-second-order/savings-consumption.md); [`../09-objections/spend-it-all.md`](../09-objections/spend-it-all.md) |

@@ -12,7 +12,7 @@
 | 0% below £500k / $750k per recipient | Over 90% of heirs pay nothing — IFS projections put even the top tenth of inheritors born in the 1980s at just under £500k received [2]; a couple's two children receive £1m tax-free between them. For most families who pay inheritance tax today, this is a tax **cut**. |
 | 100% above the threshold | Beyond a generous inheritance, the excess funds every citizen's start rather than a dynasty's continuation. |
 | A £50k / $60k endowment at 25, for everyone | Universal inheritance, unconditional, funded by the tax. The manifesto leads with this, not the tax. |
-| Engineered against the historical failure pattern | Deferral for farms and businesses, spousal exemption, exit tails, trust look-through — each answering a specific failure that killed a real inheritance tax somewhere. |
+| Engineered against the historical failure pattern | Deferral for farms and businesses, unlimited spousal relief (no widow or widower ever taxed), exit tails, trust look-through — each answering a specific failure that killed a real inheritance tax somewhere. |
 
 ## Is the thesis reasonable?
 
